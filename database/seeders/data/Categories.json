@@ -1,0 +1,12 @@
+{
+    "categories": [
+        { "id": 1, "name_id": "Makanan", "name_en": "Food", "image": "uploads/default-categories/nasi.png", "is_main": true, "is_active": true },
+        { "id": 2, "name_id": "Minuman", "name_en": "Drink", "image": "uploads/default-categories/drink.png", "is_main": true, "is_active": true },
+    { "id": 3, "name_id": "Kudapan", "name_en": "Snack", "image": "uploads/default-categories/snack.jpg", "is_main": true, "is_active": true },
+        { "id": 4, "name_id": "Manis", "name_en": "Sweet", "image": "uploads/default-categories/manis.png", "is_active": true },
+        { "id": 5, "name_id": "Gurih", "name_en": "Savory", "image": "uploads/default-categories/gurih.png", "is_active": true },
+        { "id": 6, "name_id": "Asam", "name_en": "Sour", "image": "uploads/default-categories/asam.png", "is_active": true },
+        { "id": 7, "name_id": "Pedas", "name_en": "Spicy", "image": "uploads/default-categories/pedas.png", "is_active": true },
+        { "id": 8, "name_id": "Segar", "name_en": "Fresh", "image": "uploads/default-categories/segar.png", "is_active": true }
+]
+}

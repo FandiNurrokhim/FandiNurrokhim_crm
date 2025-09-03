@@ -1,0 +1,1 @@
+import{j as u}from"./app-DdujxetC.js";function m({className:o="",onCheckedChange:i,...t}){return u.jsx("input",{...t,type:"checkbox",onChange:r=>{var x;(x=t.onChange)==null||x.call(t,r),i==null||i(r.target.checked)},className:"rounded border-gray-300 text-indigo-600 shadow-sm focus:ring-indigo-500 "+o})}export{m as C};

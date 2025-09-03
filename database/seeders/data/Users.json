@@ -1,0 +1,127 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Charlie Davis",
+        "email": "charlie.davis@example.com",
+        "password": "password"
+    },
+    {
+        "name": "David Evans",
+        "email": "david.evans@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Eve Foster",
+        "email": "eve.foster@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Frank Green",
+        "email": "frank.green@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Grace Harris",
+        "email": "grace.harris@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Hank Irving",
+        "email": "hank.irving@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Ivy Johnson",
+        "email": "ivy.johnson@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Jack King",
+        "email": "jack.king@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Karen Lee",
+        "email": "karen.lee@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Larry Moore",
+        "email": "larry.moore@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Mona Nelson",
+        "email": "mona.nelson@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Nina Owens",
+        "email": "nina.owens@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Oscar Perez",
+        "email": "oscar.perez@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Paul Quinn",
+        "email": "paul.quinn@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Quincy Roberts",
+        "email": "quincy.roberts@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Rachel Scott",
+        "email": "rachel.scott@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Sam Taylor",
+        "email": "sam.taylor@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Tina Underwood",
+        "email": "tina.underwood@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Uma Vance",
+        "email": "uma.vance@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Victor White",
+        "email": "victor.white@example.com",
+        "password": "password"
+    },
+    {
+        "name": "Wendy Xander",
+        "email": "wendy.xander@example.com",
+        "password": "password"
+    }
+]

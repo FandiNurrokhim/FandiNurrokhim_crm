@@ -1,0 +1,102 @@
+[
+    {
+        "user": "John Doe",
+        "food": "Nasi Uduk",
+        "rating": 4.5
+    },
+    {
+        "user": "Jane Smith",
+        "food": "Lemper",
+        "rating": 4.0
+    },
+    {
+        "user": "Michael Johnson",
+        "food": "Klepon",
+        "rating": 4.7
+    },
+    {
+        "user": "Emily Davis",
+        "food": "Getuk",
+        "rating": 4.2
+    },
+    {
+        "user": "Chris Brown",
+        "food": "Onde-Onde",
+        "rating": 4.8
+    },
+    {
+        "user": "Alice Wilson",
+        "food": "Serabi",
+        "rating": 4.3
+    },
+    {
+        "user": "David Lee",
+        "food": "Bakwan",
+        "rating": 4.1
+    },
+    {
+        "user": "Sophia Harris",
+        "food": "Tahu Sumedang",
+        "rating": 4.6
+    },
+    {
+        "user": "James Martin",
+        "food": "Martabak Manis",
+        "rating": 4.9
+    },
+    {
+        "user": "Olivia Anderson",
+        "food": "Lapis Legit",
+        "rating": 4.8
+    },
+    {
+        "user": "Daniel Garcia",
+        "food": "Nasi Liwet",
+        "rating": 4.4
+    },
+    {
+        "user": "Isabella Martinez",
+        "food": "Pecel",
+        "rating": 4.2
+    },
+    {
+        "user": "Ethan Taylor",
+        "food": "Gado-Gado",
+        "rating": 4.5
+    },
+    {
+        "user": "Ava Thomas",
+        "food": "Soto Betawi",
+        "rating": 4.7
+    },
+    {
+        "user": "Mason White",
+        "food": "Gudeg",
+        "rating": 4.3
+    },
+    {
+        "user": "Charlotte Hall",
+        "food": "Rendang",
+        "rating": 5.0
+    },
+    {
+        "user": "William Scott",
+        "food": "Sate Ayam",
+        "rating": 4.6
+    },
+    {
+        "user": "Amelia Young",
+        "food": "Ayam Betutu",
+        "rating": 4.8
+    },
+    {
+        "user": "Henry Walker",
+        "food": "Pempek",
+        "rating": 4.7
+    },
+    {
+        "user": "Liam Carter",
+        "food": "Nasi Uduk",
+        "rating": 4.4
+    }
+]

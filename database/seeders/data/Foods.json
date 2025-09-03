@@ -1,0 +1,1539 @@
+{
+      "foods": [
+    {
+      "name": "Es Cendol IJo",
+      "categories": [
+        2,
+        4,
+        8
+      ],
+      "ingredients": [
+        36,
+        37,
+        30,
+        26,
+       32
+      ],
+      "ratings": [
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "description_id": "Cendol adalah minuman tradisional yang populer di berbagai negara di Asia Tenggara, termasuk Indonesia, Malaysia, Singapura, dan Thailand. Dalam buku Gastronomi Indonesia sebagai Identitas Budaya dan Daya Tarik Wisata oleh Suci Sandi Wachyuni dikatakan bahwa minuman ini terdiri dari butiran hijau yang terbuat dari tepung beras atau tepung hunkwe.Cendol biasanya disajikan dengan santan, gula aren, dan es serut. Es cendol juga dapat disesuaikan dengan selera pribadi seperti menambahkan susu kental manis atau sirop manis.<br><br>Nama cendol diduga berasal dari kata Jawa jendol, yang berarti bengkak atau kenyal, mengacu pada tekstur butiran hijau dalam minuman ini.<br><br>Cendol sudah dikenal dan dikonsumsi sejak abad ke-19. Kata Cendol Dawet tercatat dalam naskah Jawa berjudul Serat Centhini, yang ditulis pada tahun 1814 hingga 1823.<br><br>Sumber lain mengatakan bahwa Cendol Dawet telah tercatat dalam Kakawin Kresnayana karangan Mpu Triguna dari kerajaan Kediri. Konon Kakawin Kresnayana ini ditulis pada abad ke-14.<br><br>Cendol di Upacara Adat Pernikahan Jawa<br><br>Melihat fakta sejarah yang ada, Cendol bisa dipastikan berasal dari Jawa. Bahkan dalam kebudayaan Jawa sendiri ada upacara adat Midodareni yang melakukan “dodol dawet” dalam rangkaian upacara pernikahan adat.<br><br>Dodol dawet dilakukan sehari sebelum acara pernikahan dilangsungkan. Dalam prosesi dodol dawet, setelah memandikan pengantin, orang tua akan berjualan cendol kepada tamu dan kerabat yang hadir.<br><br>Tamu dan kerabat yang hadir membayar dawet menggunakan koin yang berasal dari pengantin wanita sebagai simbol pendapatan dari keluarga pihak wanita. Tradisi tersebut memiliki makna bahwa orang tua kedua mempelai berharap pernikahan yang akan dilaksanakan akan dihadiri oleh banyak tamu.<br><br>Variasi Cendol di Indonesia dan Asia Tenggara<br><br>Meski berasal dari tanah Jawa, Cendol ditemukan hampir di seluruh Indonesia bahkan Asia Tenggara. Di luar negeri, Cendol mengalami perubahan penyajian. Di Malaysia, Cendol disajikan di mangkok aluminium dan diberi topping kacang merah.<br><br>Sementara itu di Singapura, minuman ini disajikan dengan topping jagung manis, mutiara sagu, cincau hitam, durian, leci, dan es krim. Cendol paling unik disajikan di Myanmar. Di sana, Cendol tidak disiram dengan gula merah, malah diisi bubur sumsum, ketan, potongan roti, dan es batu.",
+      "description_en": "Cendol is a traditional drink that is popular in various countries in Southeast Asia, including Indonesia, Malaysia, Singapore, and Thailand. In the book Indonesian Gastronomy as Cultural Identity and Tourist Attraction by Suci Sandi Wachyuni, it is said that this drink consists of green grains made from rice flour or hunkwe flour. Cendol is usually served with coconut milk, palm sugar, and shaved ice. Cendol ice can also be adjusted to personal taste such as adding condensed milk or sweet syrup. <br><br>The name cendol is thought to come from the Javanese word jendol, which means swollen or chewy, referring to the texture of the green grains in this drink. <br><br>Cendol has been known and consumed since the 19th century. The word Cendol Dawet is recorded in a Javanese manuscript entitled Serat Centhini, which was written in 1814 to 1823. <br><br>Another source says that Cendol Dawet has been recorded in the Kakawin Kresnayana written by Mpu Triguna from the Kediri kingdom. It is said that this Kresnayana Kakawin was written in the 14th century.<br><br>Cendol in Javanese Traditional Wedding Ceremonies<br><br>Looking at the historical facts, Cendol can certainly come from Java. Even in Javanese culture itself, there is a Midodareni traditional ceremony that performs dodol dawet in a series of traditional wedding ceremonies.<br><br>Dodol dawet is done the day before the wedding ceremony is held. In the dodol dawet procession, after bathing the bride and groom, the parents will sell cendol to guests and relatives who attend.<br><br>Guests and relatives who attend pay for the dawet using coins from the bride as a symbol of income from the woman's family. This tradition has the meaning that the parents of the bride and groom hope that the wedding that will be held will be attended by many guests.<br><br>Variations of Cendol in Indonesia and Southeast Asia<br><br>Although it originates from Java, Cendol is found almost throughout Indonesia and even Southeast Asia. Abroad, Cendol has changed its presentation. In Malaysia, Cendol is served in an aluminum bowl and topped with red beans.<br><br>Meanwhile in Singapore, this drink is served with sweet corn, sago pearls, black grass jelly, durian, lychee, and ice cream. The most unique Cendol is served in Myanmar. There, Cendol is not doused with brown sugar, but filled with sumsum porridge, sticky rice, pieces of bread, and ice cubes.",
+      "image": "uploads/demo-product/es-cendol.png",
+      "image_2": "uploads/demo-product/es-cendol.png",
+      "image_3": "uploads/demo-product/es-cendol.png",
+      "stand_id": 18,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Es Rumput Laut",
+      "categories": [
+        2,
+        4,
+        8
+      ],
+      "ingredients": [
+        5,
+        26,
+        18,
+        23,
+        17
+      ],
+      "ratings": [
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "description_id": "Minuman ini menghadirkan sensasi kesegaran yang unik dengan perpaduan tekstur kenyal dari rumput laut yang khas. Dikombinasikan dengan sirup manis cocopandan. Dengan adanya mutiara dan kolang kaling merah semakin memperkaya pengalaman nikmat menikmati minuman ini, yang membuat variasi tekstur yang menarik di setiap tegukannya. Cocok dinikmati kapan saja, minuman ini menjadi pilihan yang tepat untuk melepas dahaga dengan cita rasa yang istimewa",
+      "description_en": "This drink presents a unique refreshing sensation with a combination of chewy textures from distinctive seaweed. Combined with sweet cocopandan syrup. With the presence of pearls and red palm fruit, it further enriches the delicious experience of enjoying this drink, which creates an interesting variation of textures in every sip. Suitable to be enjoyed anytime, this drink is the right choice to quench your thirst with a special taste.",
+      "image": "uploads/demo-product/es rumput laut.png",
+      "image_2": "uploads/demo-product/es rumput laut.png",
+      "image_3": "uploads/demo-product/es rumput laut.png",
+      "stand_id": 3,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Es Serut Pelangi",
+      "categories": [
+        2,
+        4,
+        8
+      ],
+      "ingredients": [
+        29,
+        30,
+        31,
+       32
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        4,
+        2
+      ],
+      "description_id": "Es Serut Pelangi adalah minuman segar yang terdiri dari es serut yang disiram dengan berbagai sirup berwarna-warni, menyerupai warna pelangi. Minuman ini populer di berbagai daerah, terutama di Indonesia, sebagai hidangan penyegar saat cuaca panas.",
+      "description_en": "Rainbow Shaved Ice is a refreshing drink consisting of shaved ice topped with various colored syrups, resembling the colors of the rainbow. This drink is popular in various regions, especially in Indonesia, as a refreshing dish during hot weather.",
+      "image": "uploads/demo-product/es pelangi.png",
+      "image_2": "uploads/demo-product/es pelangi.png",
+      "image_3": "uploads/demo-product/es pelangi.png",
+      "stand_id": 11,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Es Podeng Manten",
+      "categories": [
+        2,
+        4,
+        8
+      ],
+      "ingredients": [
+        30,
+        37,
+        22
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        4,
+        2
+      ],
+      "description_id": "Es podeng manten adalah es khas madiun. saat tahun 90an banyak hajatan di jawa timur yang menghidangkannya untuk tamu tamu mantenan.",
+      "description_en": "Es Podeng Manten is a typical ice from Madiun. In the 90s, many celebrations in East Java served it to wedding guests.",
+      "image": "uploads/demo-product/es podeng.png",
+      "image_2": "uploads/demo-product/es podeng.png",
+      "image_3": "uploads/demo-product/es podeng.png",
+      "stand_id": 4,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Gempol",
+      "categories": [
+        3,
+        4,5
+      ],
+      "ingredients": [
+        18,
+        25,
+        24,
+        5,
+        17,
+        26
+      ],
+      "ratings": [
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+        "description_id": "Gempol, kudapan berbentuk bulat ini kerap disajikan dengan kuah santan. Gempol dapat ditemukan di daerah Jawa Tengah dan Jawa Timur. Meskipun demikian, masing-masing daerah memiliki ciri khas dalam penyajian gempol.<br> Di Solo dan Yogyakarta makanan ini bulat kecil yang disajikan dengan kuah santan gula merah dan ditambahkan es batu. Di Madiun makanan ini disebut dengan jenang gempol disajikan dengan kuah santan dan gula merah.",
+      "description_en": "Gempol, this round snack is often served with coconut milk sauce. Gempol can be found in Central Java and East Java. However, each region has its own characteristics in serving gempol.<br> In Solo and Yogyakarta, this food is small and round, served with coconut milk and brown sugar sauce and added with ice cubes. In Madiun, this food is called jenang gempol, served with coconut milk and brown sugar sauce.",
+      "image": "uploads/demo-product/gempol.png",
+      "image_2": "uploads/demo-product/gempol.png",
+      "image_3": "uploads/demo-product/gempol.png",
+      "stand_id": 1,
+      "price": 20000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Klepon",
+      "categories": [
+        3, 4,5
+      ],
+      "ingredients": [
+        18,
+        23,
+        24,
+        26,
+        25,
+        16
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        4
+      ],
+      "description_id": "Kelembutan klepon yang baru saja dikukus, dengan keharuman daun pandan yang memikat indera penciuman anda. Begitu digigit, gula merah cair yang manis meletus di dalam mulut, tidak hanya memberikan sensasi meletus tetapi juga memberikan rasa manis yang hangat. Klepon merupakan jajanan pasar yang sudah dikenal sejak puluhan tahun lalu, dengan sejarah yang bisa ditelusuri di tahun 1950-an, kue ini diperkanalkan oleh imigran Indonsia ke Belanda, sebagaimana tercatat dalam buku 'Indisch leven in Nederland' karya J.M. Meulenhoff.",
+      "description_en": "The softness of freshly steamed klepon, with the fragrance of pandan leaves that captivate your sense of smell. Once bitten, the sweet liquid brown sugar explodes in your mouth, not only giving a bursting sensation but also a warm sweet taste. Klepon is a market snack that has been known for decades, with a history that can be traced back to the 1950s, this cake was introduced by Indonesian immigrants to the Netherlands, as recorded in the book 'Indisch leven in Nederland' by J.M. Meulenhoff.",
+      "image": "uploads/demo-product/klepon.png",
+      "image_2": "uploads/demo-product/klepon.png",
+      "image_3": "uploads/demo-product/klepon.png",
+      "stand_id": 8,
+      "price": 12000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Kue Mangkok",
+      "categories": [
+        3,
+        4
+      ],
+      "ingredients": [
+      18,23,25,22
+      ],
+      "ratings": [
+        1,
+        2,
+        4,
+        4,
+        5
+      ],
+      "description_id": "Salah satu kue tradisional yang dijual di pasar Pundensari sekaligus menjadi favorit banyak orang. Dengan tekstur lembut, rasa manis yang pas, dan bentuknya yang seperti bunga yang sedang mekar, tak heran kue Mangkok sangat menarik perhatian. Sejarah Kue Mangkok berakar dari tradisi masyarakat Tionghoa-Indonesia. Kue Mangkok sering disajikan dalam perayaan imlek sebagai simbol keberuntungan dan kebahagiaan. Ketika tradisi Tionghoa mulai membaur dengan budaya lokal Indonesia, Kue Mangkok diadaptasi menggunakan bahan-bahan lokal.",
+      "description_en": "One of the traditional cakes sold at Pundensari market and also a favorite of many people. With a soft texture, the right sweetness, and its shape like a blooming flower, it is no wonder that Kue Mangkok is very attractive. The history of Kue Mangkok is rooted in the traditions of the Chinese-Indonesian community. Kue Mangkok is often served in Chinese New Year celebrations as a symbol of good luck and happiness. When Chinese traditions began to blend with local Indonesian culture, Kue Mangkok was adapted using local ingredients.",
+      "image": "uploads/demo-product/kue mangkok.png",
+      "image_2": "uploads/demo-product/kue mangkok.png",
+      "image_3": "uploads/demo-product/kue mangkok.png",
+      "stand_id": 8,
+      "price": 18000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Lupis",
+      "categories": [
+        3,
+        4,
+        5
+      ],
+      "ingredients": [
+        39,
+        26,
+        24,
+        17,
+        25,
+        16
+      ],
+      "ratings": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "description_id": "Kue Lupis awalnya dibuat sebagai bagian dari sajian dalam upacara adat, seperti selamatan dan perayaan panen, karena beras ketan dianggep sebagai simbol keberkahan dan kemakmuran. Sebagai kue yang unik dan menggoda, lupis hadir membalut lidah Anda dengan lumernya gula merah dan parutan kelapa. Lupis ini terkenal sangat gurih dan manis berpadu menjadi satu kuliner yang menggugah selera. Rasa ketan yang enak membuka pintu kelezatan lidah Anda di setiap gigitannya. Berselimut daun pisang membuat lupis ini beraroma sedap dan khas.",
+      "description_en": "Lupis Cake was originally made as part of a traditional ceremony, such as thanksgiving and harvest celebrations, because sticky rice is considered a symbol of blessing and prosperity. As a unique and tempting cake, lupis is here to wrap your tongue with melted brown sugar and grated coconut. This lupis is known to be very savory and sweet combined into one appetizing culinary. The delicious taste of sticky rice opens the door to the deliciousness of your tongue in every bite. Wrapped in banana leaves makes this lupis have a delicious and distinctive aroma.",
+      "image": "uploads/demo-product/Lupis.png",
+      "image_2": "uploads/demo-product/Lupis.png",
+      "image_3": "uploads/demo-product/Lupis.png",
+      "stand_id": 8,
+      "price": 10000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Lumpia",
+      "categories": [
+        3, 5
+      ],
+      "ingredients": [
+        25,
+        24,
+        40,
+        6,
+        9,
+        11,
+        12,
+        22
+      ],
+      "ratings": [
+        3,
+        4,
+        5,
+        5,
+        4
+      ],
+      "description_id": "Lumpia (Hanzi: 潤餅; Pe̍h-ōe-jī: lun-piá) adalah sejenis jajanan tradisional Tionghoa. Lumpia yang dikenal oleh orang Indonesia merupakan lafal Bahasa Hokkian.Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut. Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dan Ujung Pandang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.",
+      "description_en": "Lumpia (Chinese: 潤餅; Pe̍h-ōe-jī: lun-piá) is a type of traditional Chinese snack. Lumpia as known by Indonesians is the Hokkien pronunciation. Lumpia consists of thin sheets of wheat flour used as a wrapper for fillings which are usually bamboo shoots, eggs, fresh vegetables, meat, or seafood. In Indonesia, lumpia is known as a typical snack of Semarang and Ujung Pandang with a method of preparation and ingredients that have been adapted to local traditions.",
+      "image": "uploads/demo-product/lumpia.png",
+      "image_2": "uploads/demo-product/lumpia.png",
+      "image_3": "uploads/demo-product/lumpia.png",
+      "stand_id": 18,
+      "price": 15000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Mendoan",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        7,
+        11,
+        14,
+        25,
+        18,
+        23,
+        22
+      ],
+      "ratings": [
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "description_id": "Mendoan merupakan makanan khas Banyumas yang disukai banyak orang. Tahukah kamu bahwa sejak tahun lalu, Kementerian Pendidikan dan Kebudayaan telah menetapkan tempe mendoan sebagai warisan budaya tak benda (WBTb) Indonesia.<br>Berdasarkan sidang Penetapan Warisan Budaya Tak Benda Indonesia Tahun 2021 di Jakarta, makanan khas Kabupaten Banyumas, Jawa Tengah ini masuk dalam kategori Keterampilan dan Kemahiran Kerajinan Tradisional.<br>Keberadaan olahan tempe mendoan dalam khazanah kuliner Nusantara sangat populer dan apat dinikmati oleh masyarakat dari berbagai kalangan. Lalu bagaimana sejarah tempe mendoan Banyumas.<br><b>Asal Usul Tempe Mendoan</b><br>Tempe mendoan adalah olahan tempe yang dibalur adonan tepung yang telah diberi bumbu dan potongan daun bawang. Sekilas, inu terdengar mirip dengan olahan gorengan tempe pada umumnya. Namun, tempe mendoan sangatlah berbeda. Baik dari segi tekstur, rasa hingga cara penyajian.<br>Mulanya tempe diiris tipis dan lebih lebar bila dibandingkan gorengan tempe pada umumnya. Setelah dibaluri adonan tepung tempe lalu digoreng dengan minyak panas sekitar empat menit. Tempe mendoan hanya dimasak sebentar tanpa menunggu adonan berubah warna hingga keemasan.<br>Olahan tempe ini sangat populer di Indonesia, namun menurut berbagai sumber menyebutkan bahwa jenis gorengan satu ini berasal dari daerah Banyumas.Keberadaanya pun kini sudah tersebar diberbagai daerah di Indonesia.<br>Diketahui, penamaan tempe mendoan disinyalir diambil dari kata mendo yang dalam bahasa Jawa Banyumas yang berarti setengah matang. Dapat dikatakan bahwa nama tempe mendoan diambil dari teknik memasaknya.<br>Ada alasan di balik penggunaan teknik memasak setengah matang. Mulanya mendoan adalah olahan tempe cepat saji. Oleh karena itu, untuk mempersingkat waktu memasak penjual tempe mendoan enggan menggoreng tempe hingga kering.<br><b>Perkembangan Tempe Mendoan</b><br>Perjalanan camilan yang lebih nikmat jika dinikmati saat hangat ini kian populer setelah bahan baku kedelai yang tumbuh di China dan Indochina menyebar ke Indonesia. Menurut berbagai sumber, tempe mendoan telah menjadi komoditas dan dikelola secara komersil di Banyumas sejak tahun 1960-an.<br>Sejak saat itu, tempe mendoan bukan sekadar camilan. Bagi masyarakat Banyumas, tempe mendoan sarat makna dan telah menjadi identitas warga Banyumas. Warga Banyumas kerap disamakan dengan tempe mendoan yang fleksibel dan mudah menyesuaikan diri",
+      "description_en": "Mendoan is a typical Banyumas food that is loved by many people. Did you know that since last year, the Ministry of Education and Culture has designated tempeh mendoan as an Indonesian intangible cultural heritage (WBTb). <br>Based on the 2021 Indonesian Intangible Cultural Heritage Determination Session in Jakarta, this typical food from Banyumas Regency, Central Java is included in the Traditional Craft Skills and Proficiency category. <br>The existence of processed tempeh mendoan in the culinary treasures of the archipelago is very popular and can be enjoyed by people from various circles. So what is the history of Banyumas tempeh mendoan? <br><b>The Origin of Tempeh Mendoan</b><br>Temeh mendoan is processed tempeh coated with flour dough that has been seasoned and chopped spring onions. At first glance, this sounds similar to fried tempeh in general. However, tempeh mendoan is very different. Both in terms of texture, taste and how to serve. <br>Initially, tempeh was sliced ​​thinly and wider when compared to fried tempeh in general. After being coated with tempeh flour dough, it is then fried in hot oil for about four minutes. Tempeh mendoan is only cooked briefly without waiting for the dough to change color until golden.<br>This processed tempeh is very popular in Indonesia, but according to various sources, this type of fried food comes from the Banyumas area. Its existence is now spread across various regions in Indonesia.<br>It is known that the name tempeh mendoan is allegedly taken from the word mendo which in Banyumas Javanese means half-cooked. It can be said that the name tempeh mendoan is taken from the cooking technique.<br>There is a reason behind the use of the half-cooked cooking technique. Initially, mendoan was a fast-food tempeh dish. Therefore, to shorten the cooking time, tempeh mendoan sellers were reluctant to fry the tempeh until dry.<br><b>The Development of Tempeh Mendoan</b><br>The journey of this snack, which is more delicious when enjoyed warm, has become increasingly popular after soybean raw materials grown in China and Indochina spread to Indonesia. According to various sources, tempe mendoan has been a commodity and commercially managed in Banyumas since the 1960s.<br>Since then, tempe mendoan is not just a snack. For the people of Banyumas, tempe mendoan is full of meaning and has become the identity of Banyumas residents. Banyumas residents are often equated with tempe mendoan which is flexible and easy to adapt",
+      "image": "uploads/demo-product/Mendoan.png",
+      "image_2": "uploads/demo-product/Mendoan.png",
+      "image_3": "uploads/demo-product/Mendoan.png",
+      "stand_id": 2,
+      "price": 13700,
+      "portion_info": "1 piece"
+    },
+     {
+      "name": "Nasi Bakar",
+      "categories": [
+        1,5,7
+      ],
+      "ingredients": [
+        1,2,10,11,12,27,30
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "description_id": "Nasi bakar merupakan salah satu kuliner yang sangat populer dan banyak dikonsumsi oleh masyarakat Indonesia, terutama bagi para pecinta kuliner tradisional. Pasalnya aroma dan rasa dari nasi bakar ini sangat autentik sekali dan sangat mencerminkan kuliner khas Indonesia. Mulai dari penggunaan daun pisang hingga rempah-rempah yang dicampurkan di dalamnya. Nasi bakar merupakan nasi yang sudah dimasak dengan aneka bumbu terlebih dahulu lalu di dalamnya diberi isian lauk pauk dan dibungkus menggunakan daun pisang dan dibakar hingga aromanya menjadi wangi menggoda. Menjadi kuliner yang banyak dikonsumsi oleh masyarakat Indonesia, tahukah kamu asal usul dari nasi bakar ini?<br><b>Asal Usul Nasi Bakar</b><br>Asal usul nasi bakar sebenarnya hingga saat ini masih dipertanyakan karena banyak daerah yang mengklaim asal dari nasi bakar ini. Tapi kebanyakan orang menduga kalau nasi bakar aslinya berasal dari Jawa Barat karena dulunya banyak dijumpai di daerah tersebut. Konon, makanan yang punya aroma wangi khas ini sudah ada sejak lama. Tapi keberadaannya baru mulai diketahui oleh masyarakat di luar Jawa Barat pada sekitar tahun 90-an. Sementara kepopulerannya baru mulai naik daun pada awal tahun 2000-an. Jika awalnya nasi bakar hanya disajikan di restoran-restoran Sunda saja, saat ini Teman Kuliner juga bisa menjumpainya di restoran Indonesia. Mulai dari restoran Jawa hingga restoran Manado.<br><b>Jadi Bekal Makan Siang</b><br>Masyarakat Sunda umumnya memasak nasi bakar untuk dijadikan bekal bagi para suami mereka yang pergi bekerja menjadi petani di sawah atau kebun. Biasanya para istri akan membawakan bekal untuk suaminya yang bekerja dengan menggunakan rantang. Di dalam rantang akan ada isian nasi, lauk pauk, sambal, sayur kuah, dan sambal. Berhubung bekal tersebut dinilai cukup ribet untuk dikonsumsi, maka para istri pun berinisiatif untuk membuat makanan yang praktis tapi di dalamnya terdapat nasi, sayur, dan lauk sekaligus. Maka dibuatlah nasi bakar. Nasi bakar sangat praktis karena nantinya Teman Kuliner hanya perlu membuka bungkusnya yang terbuat dari daun pisang. Dengan menggunakan daun pisang, nasi bakar tidak hanya menjadi wangi, tapi daun pisang juga bisa dijadikan sebagai alas makan.<br><b>Lauk Pauk yang Digunakan dalam Nasi Bakar</b><br>Nasi bakar aslinya dibuat dari nasi putih yang dimasak dengan santan, daun salam, sereh, dan lengkuas. Nantinya nasi akan diberi isian lauk. Jenis lauknya ini sangat bervariasi. Tapi kebanyakan nasi bakar menggunakan ikan goreng dalam isiannya, misalkan saja ikan teri. Selain ikan, ada udang, cumi, empal, daging cincang, hingga ayam fillet. Untuk sayurannya, nasi bakar umumnya diberi isian daun kemangi yang wajib disertakan karena aromanya sangat wangi, terutama saat dibakar. Selain daun kemangi, nasi bakar juga sering diberi campuran irisan jamur untuk memperkaya teksturnya atau menambahkan irisan cabai rawit untuk menambah rasa pedas di dalam nasi bakar tersebut.",
+      "description_en": "Grilled rice is one of the most popular culinary delights and is widely consumed by Indonesian people, especially for lovers of traditional cuisine. The reason is that the aroma and taste of this grilled rice are very authentic and reflect typical Indonesian cuisine. Starting from the use of banana leaves to the spices mixed in it. Grilled rice is rice that has been cooked with various spices first, then filled with side dishes and wrapped in banana leaves and grilled until the aroma becomes temptingly fragrant. As a culinary delight that is widely consumed by Indonesian people, do you know the origin of this grilled rice? <br><b>Origin of Grilled Rice</b><br>The origin of grilled rice is actually still questionable because many regions claim the origin of this grilled rice. But most people suspect that grilled rice originally came from West Java because it used to be widely found in that area. It is said that this food with a distinctive fragrant aroma has been around for a long time. But its existence only began to be known by people outside West Java around the 90s. While its popularity only began to rise in the early 2000s. If initially grilled rice was only served in Sundanese restaurants, now Culinary Friends can also find it in Indonesian restaurants. Starting from Javanese restaurants to Manadonese restaurants.<br><b>As Lunch Box</b><br>Sundanese people generally cook grilled rice to be used as provisions for their husbands who go to work as farmers in the fields or gardens. Usually the wives will bring provisions for their husbands who work using a food container. Inside the food container there will be rice, side dishes, chili sauce, vegetable soup, and chili sauce. Since the provisions are considered quite complicated to consume, the wives took the initiative to make practical food but in it there is rice, vegetables, and side dishes at once. So grilled rice was made. Grilled rice is very practical because later Culinary Friends only need to open the package made of banana leaves. By using banana leaves, grilled rice not only becomes fragrant, but banana leaves can also be used as a base for eating.<br><b>Side Dishes Used in Grilled Rice</b><br>Original grilled rice is made from white rice cooked with coconut milk, bay leaves, lemongrass, and galangal. Later, the rice will be filled with side dishes. The types of side dishes vary greatly. But most grilled rice uses fried fish in its filling, for example anchovies. In addition to fish, there are shrimp, squid, empal, minced meat, and even chicken fillets. For vegetables, grilled rice is usually filled with basil leaves which must be included because the aroma is very fragrant, especially when grilled. In addition to basil leaves, grilled rice is also often mixed with sliced ​​mushrooms to enrich its texture or add sliced ​​cayenne pepper to add a spicy taste to the grilled rice.",
+      "image": "uploads/demo-product/nasi bakar.png",
+      "image_2": "uploads/demo-product/nasi bakar.png",
+      "image_3": "uploads/demo-product/nasi bakar.png",
+    "stand_id": 11,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+     {
+      "name": "Nasi ayam bakar taliwang",
+      "categories": [
+        1,5,7
+      ],
+      "ingredients": [
+        1,
+        2,
+        10,
+        11,
+        12,
+        15,
+        20,
+        22,
+        24,
+        21
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        4,
+        5
+      ],
+      "description_id": "Ayam bakar Taliwang adalah sebuah hidangan yang menggambarkan kekayaan budaya Nusa Tenggara Barat (NTB). Berasal dari Kecamatan Taliwang, Kabupaten Sumbawa Barat, hidangan ini telah menjadi ikon kuliner NTB yang mendunia.<br><br>Proses pembuatannya juga unik, melibatkan pelumuran jeruk nipis dan penumbukan, menjadikan setiap gigitan penuh dengan cita rasa yang mendalam.<br><br>Sejarah Singkat Ayam Bakar Taliwang<br><br>Ayam bakar ini berasal dan populer di Kampung Taliwang, Kota Mataram, dan dibuat dengan bumbu seperti Bawang Merah, Bawang Putih, Cabai, Gula Aren, Terasi, dan Santan, serta ayam jenis pejantan.<br><br>Asal nama Taliwang diambil dari Kerajaan Taliwang, yang berpengaruh di wilayah tersebut dulu. Menu ini awalnya diperkenalkan sebagai hidangan perdamaian selama konflik antara Kerajaan Selaparang, Lombok, dan Kerajaan Karangasem, Bali.<br><br>Kerajaan Taliwang ditugaskan ke Pulau Lombok sebagai mediator dalam perselisihan antara kerajaan. Dalam tugas ini, Kerajaan Taliwang membawa koki-koki terampil yang bertugas menyajikan Ayam Taliwang untuk para tentara.<br><br>Proses pembuatannya melibatkan penggunaan air jeruk nipis untuk menghilangkan bau yang tidak enak pada ayam, memanggangnya hingga berwarna coklat, menghancurkannya sehingga bumbu dapat meresap, dan memanggangnya lagi dengan bumbu tambahan.<br><br>Seiring waktu berlalu, tentara-tentara itu berbaur dengan masyarakat suku Sasak, dan mereka saling bertukar pengetahuan tentang cara memasaknya dengan memakai bumbu-bumbu yang sederhana.",
+      "description_en": "Ayam bakar Taliwang is a dish that illustrates the richness of the culture of West Nusa Tenggara (NTB). Originating from Taliwang District, West Sumbawa Regency, this dish has become a culinary icon of NTB that is known worldwide. <br><br>The process of making it is also unique, involving lime rub and pounding, making every bite full of deep flavor. <br><br>A Brief History of Ayam Bakar Taliwang<br><br>This grilled chicken originates and is popular in Taliwang Village, Mataram City, and is made with spices such as Shallots, Garlic, Chili, Palm Sugar, Shrimp Paste, and Coconut Milk, as well as male chicken. <br><br>The origin of the name Taliwang is taken from the Taliwang Kingdom, which was influential in the region in the past. This menu was originally introduced as a peace dish during the conflict between the Selaparang Kingdom, Lombok, and the Karangasem Kingdom, Bali. <br><br>The Taliwang Kingdom was assigned to Lombok Island as a mediator in the dispute between the kingdoms. In this task, the Taliwang Kingdom brought skilled chefs who were tasked with serving Ayam Taliwang to the soldiers. <br><br>The process of making it involved using lime juice to remove the unpleasant odor of the chicken, roasting it until it was brown, crushing it so that the spices could be absorbed, and roasting it again with additional spices. <br><br>As time passed, the soldiers mingled with the Sasak people, and they exchanged knowledge on how to cook it using simple spices.",
+      "image": "uploads/demo-product/nasi ayam taliwang.png",
+      "image_2": "uploads/demo-product/nasi ayam taliwang.png",
+      "image_3": "uploads/demo-product/nasi ayam taliwang.png",
+      "stand_id": 16,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+     {
+      "name": "Nasi Rendang Ayam",
+      "categories": [
+        1, 5,7
+      ],
+      "ingredients": [
+        1,
+        2,
+        5,
+        10,
+        11,
+        12,17,28,14
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+          "description_id": "Nasi rendang ayam adalah hidangan yang terdiri dari nasi hangat dan rendang ayam. Rendang ayam merupakan hidangan khas Minangkabau, Sumatera Barat, yang terbuat dari potongan ayam yang dimasak dengan santan dan rempah-rempah.<br>Rendang ayam memiliki rasa yang gurih, pedas, dan sedikit manis. Rasanya yang kaya rempah-rempah dan teksturnya yang lembut membuat rendang ayam menjadi hidangan yang disukai banyak orang.<br>Rendang ayam memiliki peran penting dalam budaya Minangkabau. Rendang sering disajikan dalam acara adat dan perayaan penting, serta dianggap sebagai hidangan kehormatan.",
+      "description_en": "Chicken rendang rice is a dish consisting of warm rice and chicken rendang. Chicken rendang is a typical Minangkabau dish, West Sumatra, made from pieces of chicken cooked in coconut milk and spices.<br>Chicken rendang has a savory, spicy, and slightly sweet taste. Its rich spice taste and soft texture make chicken rendang a dish that is loved by many people.<br>Chicken rendang plays an important role in Minangkabau culture. Rendang is often served at traditional events and important celebrations, and is considered an honorary dish",
+      "image": "uploads/demo-product/Nasi rendang ayam.png",
+      "image_2": "uploads/demo-product/Nasi rendang ayam.png",
+      "image_3": "uploads/demo-product/Nasi rendang ayam.png",
+      "stand_id": 2,
+      "price": 5000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Wedang Seger",
+      "categories": [
+        2,
+        5
+      ],
+      "ingredients": [
+        15,
+        6,
+      19,
+        21,
+        22,
+        13
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Wedang seger merupakan salah satu opsi yang tepat apalagi jika dinikmati ketika hangat. Sensasi rempah-rempah yang menghangatkan di setiap tegukan menyambut lidah dan tenggorokan dengan bahagia. Rasa jeruk nipis yang segar dan sesuai selera ini sangat cocok diminum bagi Anda yang beraktivitas padat dan memerlukan stamina lebih. Minuman yang dapat meningkatkan imun tubuh ini hadir di masyarakat ketika pandemi. Segar dan menyehatkan.",
+      "description_en": "Fresh wedang is one of the right options, especially if enjoyed warm. The sensation of warming spices in every sip welcomes the tongue and throat happily. This fresh and tasteful lime taste is very suitable to drink for those of you who are active and need more stamina. This drink, which can increase the body's immunity, is available in society during the pandemic. Fresh and healthy.",
+      "image": "uploads/demo-product/wedang seger.png",
+      "image_2": "uploads/demo-product/wedang seger.png",
+      "image_3": "uploads/demo-product/wedang seger.png",
+      "stand_id": 1,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Sate Tahu",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        8,
+      11,
+      12,
+        10,
+        25,
+        26
+      ],
+      "ratings": [
+        5,
+        1,
+        4,
+        3,
+        5
+      ],
+      "description_id": "Sate tahu adalah perwujudan kesederhanaan yang memikat. Tahu yang lembut dipotong dan ditusuk, lalu dipanggang hingga beraroma khas. Siraman bumbu kacang yang kental dan sedikit perasan jeruk limau menghadirkan rasa manis, gurih, dan segar dalam satu gigitan.",
+      "description_en": "Tofu satay is the epitome of alluring simplicity. Soft tofu is sliced ​​and skewered, then grilled to a distinctive aroma. A drizzle of thick peanut sauce and a squeeze of lime bring sweet, savory, and fresh flavors all in one bite.",
+      "image": "uploads/demo-product/sate tahu.png",
+      "image_2": "uploads/demo-product/sate tahu.png",
+      "image_3": "uploads/demo-product/sate tahu.png",
+      "stand_id": 12,
+      "price": 22000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Serabi Solo",
+      "categories": [
+        3, 4, 5
+      ],
+      "ingredients": [
+          18,
+        22,
+        24,
+        26,
+        5
+      ],
+      "ratings": [
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      "description_id": "Serabi (Sanskerta: wangi, harum) adalah jajanan tradisional yang berasal dari Indonesia yang diperkirakan sudah dikenal sejak zaman Kerajaan Mataram. Panganan ini beberapa kali disebut dalam Serat Centhini, yang ditulis para pujangga keraton Surakarta selama 1814–1823 atas perintah Pakubuwana V, sebagai sesaji dalam prosesi ijab atau pernikahan, ruwahan, dan terutama kudapan. Pada tembang (pupuh) ke-157 bait 18,  diceritakan bahwa serabi merupakan salah satu dari sekian banyak jenis jajanan yang dijajakan di halaman rumah pada saat pertunjukan wayang kulit di malam hari. Disebutkan pula, bahwa sembilan macam serabi juga merupakan bagian dari aneka penganan yang perlu disiapkan sebagai sajen dalam pertunjukan wayang dan ruwatan (Pupuh 157:7–8).<br>Pakar kuliner, Bondan Winarno mengatakan bahwa kemungkinan makanan ini mendapat pengaruh dari budaya kuliner India dan juga Belanda. Di Jawa Barat, serabi dikenal dengan nama surabi atau sorabi. Serabi yang terkenal di Indonesia adalah serabi bandung dan serabi solo.",
+      "description_en": "Serabi (Sanskrit: fragrant, fragrant) is a traditional snack originating from Indonesia that is estimated to have been known since the time of the Mataram Kingdom. This food is mentioned several times in Serat Centhini, written by the Surakarta palace poets during 1814–1823 on the orders of Pakubuwana V, as an offering in the ijab or wedding procession, ruwahan, and especially snacks. In the 157th verse (pupuh) 18, it is told that serabi is one of the many types of snacks sold in the yard during the wayang kulit performance in the evening. It is also mentioned that nine types of serabi are also part of the various snacks that need to be prepared as offerings in wayang and ruwatan performances (Pupuh 157:7–8).<br>Culinary expert, Bondan Winarno said that this food is likely influenced by Indian and Dutch culinary culture. In West Java, serabi is known as surabi or sorabi. The famous serabi in Indonesia are serabi Bandung and serabi Solo.",
+      "image": "uploads/demo-product/serabi.png",
+      "image_2": "uploads/demo-product/serabi.png",
+      "image_3": "uploads/demo-product/serabi.png",
+    "stand_id": 9,
+      "price": 8000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Siomay",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        2,
+      6,
+        11,
+       32,
+        24,
+        40
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        4,
+        5
+      ],
+        "description_id": "Bumbu kacang yang kental, berpadu dengan kecap manis, membuat Siomay Bu djayem salah satu kuliner yang wajib dicoba saat berkunjung di pasar Pundensari. Setiap porsi disajikan dengan siomay yang kenyal dan gurih, lengkap dengan tahu kukus, kentang, telur, kol gulung, dan pare bergulung pentol yang menggoda selera. tak lupa dengan siraman rasa siomay semakin nikmat dan sulit dilupakan.Siomay pada dasarnya berasal dari tradisi kuliner tiongkok, bagian dari dim sum yang disajikan di berbagai daerah di tiongkok. Namun, siomay di indonesia telah mengalami adaptasi sesuai selera lokal. Perbedaan utama pada penggunaan ikan tengiri sebagai bahan utama adonan, menggantikan daging babi yang biasa digunakan dalam versi aslinya. Siomay mulai populer di Indonesia pada era 1960-an, seiring dengan berkembangnya pengaruh budaya Tiongkok dalam dunia kuliner. Awalnya siomay lebihbanyak ditemukan di kota-kota dengan komunitas Tonghoa besar seperti di Jakarta dan Bandung. Di Bandung siomay mendapat sentuhan lokal dengan penyajian khas dengan mnggunakan bumbu kacang sebagai peleengkap.",
+      "description_en": "Thick peanut sauce, combined with sweet soy sauce, makes Siomay Bu Djayem one of the culinary delights that must be tried when visiting Pundensari market. Each portion is served with chewy and savory siomay, complete with steamed tofu, potatoes, eggs, cabbage rolls, and bitter melon rolls that are tempting to the taste buds. Don't forget the sprinkling of siomay flavor that is even more delicious and hard to forget. Siomay basically comes from Chinese culinary traditions, part of dim sum served in various regions in China. However, siomay in Indonesia has been adapted to suit local tastes. The main difference is the use of mackerel as the main ingredient in the dough, replacing the pork that is usually used in the original version. Siomay began to become popular in Indonesia in the 1960s, along with the growing influence of Chinese culture in the culinary world. Initially, siomay was more commonly found in cities with large Tonghoa communities such as Jakarta and Bandung. In Bandung, siomay gets a local touch with a distinctive presentation using peanut sauce as a complement.",
+      "image": "uploads/demo-product/siomay.png",
+      "image_2": "uploads/demo-product/siomay.png",
+      "image_3": "uploads/demo-product/siomay.png",
+      "stand_id": 3,
+      "price": 30000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Srikaya Ketan Beras",
+      "categories": [
+        3, 5, 4
+      ],
+      "ingredients": [
+        24,
+        5,
+        24,
+        17,
+        26,
+        40
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        5
+      ],
+       "description_id": "Perpaduan magis antara ketan putih yang kenyal dengan selai srikaya yang creamy dan manis. Ketan yang dimasak dengan santan memberikan dasar yang gurih, sementara selai srikaya menciptakan lapisan atas yang lembut dan aromatis. Setiap suapan menghadirkan harmonisasi tekstur dan rasa yang memanjakan.",
+      "description_en": "A magical combination of chewy white sticky rice with creamy and sweet srikaya jam. Sticky rice cooked with coconut milk provides a savory base, while srikaya jam creates a soft and aromatic top layer. Every mouthful presents a harmony of textures and flavors that are indulgent.",
+      "image": "uploads/demo-product/resep-ketan-srikaya.png",
+      "image_2": "uploads/demo-product/resep-ketan-srikaya.png",
+      "image_3": "uploads/demo-product/resep-ketan-srikaya.png",
+    "stand_id": 9,
+      "price": 12000,
+      "portion_info": "1 piece"
+    },
+      {
+      "name": "Sego Pecel",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        9,
+        24,
+        11,
+        25,
+        17,
+        33
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Sego pecel adalah salah satu masakan khas Indonesia, khususnya dari daerah Jawa. Ini adalah hidangan nasi yang disajikan dengan sambal pecel, yang terbuat dari kacang tanah yang dihaluskan, dicampur dengan rempah-rempah, dan sedikit rasa pedas serta manis. Biasanya, sambal pecel ini juga ditambah dengan bahan seperti daun jeruk, gula merah, dan air asam jawa untuk memberikan rasa yang khas.<br><br>Nasi yang digunakan untuk sego pecel biasanya nasi putih yang masih hangat, kemudian diberi sambal pecel di atasnya. Sebagai pelengkap, sering kali ditambahkan lauk-pauk seperti tempe, tahu, sayuran rebus seperti daun singkong, tauge, atau bayam. Beberapa versi sego pecel juga menambahkan kerupuk atau emping sebagai pelengkap renyah.<br><br>Sego pecel sangat digemari karena rasanya yang lezat dan menyegarkan, dengan kombinasi rasa gurih, pedas, manis, dan sedikit asam. Hidangan ini sering disajikan sebagai sarapan atau makan siang, dan sangat populer di kalangan masyarakat Jawa.<br><br>Berbeda dengan daerah lain yang menggunakan kencur dalam sambalnya, bumbu pecel khas Madiun ini mengandung daun jeruk purut yang memberikan rasa segar. Umumnya, sego pecel ini terdiri dari nasi putih, tempe, tahu, sayuran rebus, sambal kacang, dan rempeyek.",
+      "description_en": "Sego pecel is one of Indonesia's typical dishes, especially from Java. It is a rice dish served with pecel sauce, which is made from ground peanuts, mixed with spices, and a little spicy and sweet. Usually, this pecel sauce is also added with ingredients such as lime leaves, brown sugar, and tamarind water to give it a distinctive taste.<br><br>The rice used for sego pecel is usually warm white rice, then topped with pecel sauce. As a complement, side dishes such as tempeh, tofu, boiled vegetables such as cassava leaves, bean sprouts, or spinach are often added. Some versions of sego pecel also add crackers or emping as a crunchy complement.<br><br>Sego pecel is very popular because of its delicious and refreshing taste, with a combination of savory, spicy, sweet, and slightly sour flavors. This dish is often served for breakfast or lunch, and is very popular among Javanese people.<br><br>Unlike other regions that use kencur in their chili sauce, this typical Madiun pecel seasoning contains kaffir lime leaves which give it a fresh taste. Generally, this sego pecel consists of white rice, tempeh, tofu, boiled vegetables, peanut sauce, and rempeyek.",
+      "image": "uploads/demo-product/sego pecel.png",
+      "image_2": "uploads/demo-product/sego pecel.png",
+      "image_3": "uploads/demo-product/sego pecel.png",
+      "stand_id": 15,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Tela tela",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        23,
+        24,
+        25,
+        22
+      ],
+      "ratings": [
+        5,
+        5,
+        4,
+        5,
+        5
+      ],
+      "description_id": "Tela-tela merupakan cemilan yang berbahan singkong yang dicampur dengan berbagai bumbu aneka rasa. Tela-Tela jajanan SD ini sangat digemari oleh semua kalangan dari anak SD hingga para mahasiswa dan pekerja. Banyaknya yang menyukai cemilan ini, menjadikan jananan tela-tela tidak tergeser oleh cemilan cemilan modern masa kini. Selain banyaknya penggemar jajanan tela-tela juga menjadi cemilan yang ramah kantong bagi para pencinta kuliner murah.. walaupun harga cemilan yang murah tidak menjadikan jananan ini, menjadi cemilan receh.",
+      "description_en": "Tela-tela is a snack made from cassava mixed with various spices with various flavors. Tela-Tela, an elementary school snack, is very popular with all groups, from elementary school children to students and workers. The many who like this snack, make tela-tela snacks not replaced by modern snacks today. In addition to the many fans of snacks, tela-tela is also a pocket-friendly snack for lovers of cheap culinary. Although the cheap price of the snack does not make this snack a cheap snack.",
+      "image": "uploads/demo-product/tela tela.png",
+      "image_2": "uploads/demo-product/tela tela.png",
+      "image_3": "uploads/demo-product/tela tela.png",
+      "stand_id": 17,
+      "price": 25000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Bongko",
+      "categories": [
+        1,5
+      ],
+      "ingredients": [
+        16,
+        28,
+        11
+      ],
+      "ratings": [
+        5,
+        5,
+        4,
+        5,
+        5
+      ],
+      "description_id": "Bongko adalah makanan yang dibuat dari kacang tolo, kacang merah, dan kepala parut muda, disertai bumbu. Bongko dibungkus memakai daun pisang dan dimasak dengan cara dikukus.",
+      "description_en": "Bongko is a food made from tolo beans, red beans, and young grated heads, accompanied by spices. Bongko is wrapped in banana leaves and cooked by steaming.",
+      "image": "uploads/demo-product/bongko.png",
+      "image_2": "uploads/demo-product/bongko.png",
+      "image_3": "uploads/demo-product/bongko.png",
+      "stand_id": 5,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Buntil",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        24,
+        10,
+        11,
+        12,
+        16,
+        7
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Buntil adalah makanan khas Indonesia yang berasal dari Jawa, terutama dari daerah Jawa Tengah dan Jawa Timur. Buntil terbuat dari daun singkong yang dibungkus dengan isian berbahan dasar kelapa parut yang dibumbui, lalu dikukus hingga matang. Rasanya gurih dengan sentuhan pedas, serta tekstur kenyal dari daun singkong yang dibungkus dengan rapat. Bahan isian buntil umumnya terdiri dari kelapa parut yang dicampur dengan bumbu seperti bawang putih, bawang merah, cabai, terasi, garam, dan gula merah. Beberapa variasi buntil juga menambahkan ikan teri atau tempe yang dihancurkan, untuk menambah rasa gurih dan cita rasa yang lebih kompleks. Setelah bahan isian tercampur rata, kelapa parut tersebut dibungkus dengan daun singkong yang telah direbus, lalu dikukus hingga daun singkong menjadi lembut dan isian di dalamnya matang sempurna. Buntil biasanya disajikan dengan sambal terasi atau sambal kecap sebagai pelengkap, dan sering dinikmati bersama nasi hangat. Hidangan ini sangat populer sebagai lauk pendamping nasi, terutama di daerah pedesaan, dan menjadi bagian dari tradisi kuliner yang kaya akan citarasa alami dan tradisional.",
+      "description_en": "Buntil is a typical Indonesian food originating from Java, especially from Central Java and East Java. Buntil is made from cassava leaves wrapped in a filling made from grated coconut seasoned with spices, then steamed until cooked. It tastes savory with a touch of spiciness, as well as a chewy texture from the cassava leaves wrapped tightly. The buntil filling generally consists of grated coconut mixed with spices such as garlic, shallots, chilies, shrimp paste, salt, and brown sugar. Some buntil variations also add crushed anchovies or tempeh, to add a savory taste and a more complex flavor. After the filling is evenly mixed, the grated coconut is wrapped in boiled cassava leaves, then steamed until the cassava leaves become soft and the filling inside is perfectly cooked. Buntil is usually served with shrimp paste or soy sauce chili sauce as a complement, and is often enjoyed with warm rice. This dish is very popular as a side dish with rice, especially in rural areas, and is part of a culinary tradition rich in natural and traditional flavors.",
+      "image": "uploads/default-products/Makanan-BUNTIL-2.jpg",
+      "image_2": "uploads/default-products/Makanan-BUNTIL-2.jpg",
+      "image_3": "uploads/default-products/Makanan-BUNTIL-2.jpg",
+      "stand_id": 5,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Gado gado",
+      "categories": [
+        1, 4, 5, 7
+      ],
+      "ingredients": [
+        1,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        6,
+        33
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        4,
+        5
+      ],
+      "description_id": "Gado-gado adalah makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dan lain-lain diberi bumbu sambal kacang dan sebagainya.<br><br>Adanya gado-gado bermula pada abad ke-17 (1626-1629), saat Kesultanan Mataram yang dipimpin Sultan Agung melakukan Penyerbuan di Batavia, kehabisan pasokan bahan makanan terutama beras. Selain itu, lumbung-lumbung beras di sekitar Batavia dibakar oleh VOC, sehingga membuat prajurit warok dari Ponorogo yang tergabung dalam pasukan perang membuat sambal bumbu pecel dari kacang tanah, kemudian disiramkan ke berbagai sayuran mentah yang ada di sekitar persawahan untuk bertahan hidup.Tindakan ini dalam Bahasa Jawa disebut Gadho yang berarti makan hanya lauk saja atau makan lauk tanpa nasi. Resep gado-gado kemudian diikuti oleh prajurit lainnya untuk memakan sayur seadanya yang disiram cairan bumbu pecel.<br><br>Seiring perkembangan zaman, kini gado-gado ditambahkan lontong yang diiris kecil, telur, tahu dan kerupuk yang disajikan di warung kecil hingga restoran",
+      "description_en": "Gado-gado is a food consisting of vegetables, potatoes, tempeh, tofu, boiled eggs, and others seasoned with peanut sauce and so on. <br><br>The existence of gado-gado began in the 17th century (1626-1629), when the Mataram Sultanate led by Sultan Agung carried out an invasion of Batavia, running out of food supplies, especially rice. In addition, rice barns around Batavia were burned by the VOC, so that warok soldiers from Ponorogo who were part of the war troops made pecel sauce from peanuts, then poured it on various raw vegetables around the rice fields to survive. This action in Javanese is called Gadho which means eating only side dishes or eating side dishes without rice. The gado-gado recipe was then followed by other soldiers to eat vegetables as they were, drizzled with peanut sauce. <br><br>As time goes by, gado-gado is now added with small slices of rice cake, eggs, tofu and crackers which are served in small stalls to restaurants.",
+      "image": "uploads/default-products/Makanan-Gado-gado.jpg",
+      "image_2": "uploads/default-products/Makanan-Gado-gado.jpg",
+      "image_3": "uploads/default-products/Makanan-Gado-gado.jpg",
+      "stand_id": 18,
+      "price": 25000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Jadah Goreng",
+      "categories": [
+        1,5
+      ],
+      "ingredients": [
+        1,
+        16,
+        24,
+        26,
+        5
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "description_id": "Jadah goreng berasal dari Yogyakarta, Indonesia, dan merupakan kue tradisional yang terbuat dari beras ketan. Jadah goreng juga dikenal dengan nama uli di Betawi dan ulen di Sunda. Jadah goreng memiliki sejarah panjang dan merupakan bagian penting dari kehidupan masyarakat Yogyakarta. Jadah goreng awalnya digunakan sebagai sesaji dalam upacara pernikahan di Jawa Jadah goreng adalah makanan tradisional khas Jawa yang terbuat dari beras ketan, parutan kelapa, dan gula merah. Jadah goreng bisa menjadi cemilan yang mengingatkan pada suasana kampung. Jadah juga bisa diolah menjadi jadah tempe, yaitu perpaduan jadah dengan tempe bacem. Jadah tempe merupakan makanan khas Yogyakarta yang sering disajikan dalam acara adat dan perayaa",
+      "description_en": "Jadah goreng originates from Yogyakarta, Indonesia, and is a traditional cake made from sticky rice. Jadah goreng is also known as uli in Betawi and ulen in Sundanese. Jadah goreng has a long history and is an important part of the lives of the people of Yogyakarta. Jadah goreng was originally used as an offering in wedding ceremonies in Java. Jadah goreng is a traditional Javanese food made from sticky rice, grated coconut, and brown sugar. Jadah goreng can be a snack that reminds you of the village atmosphere. Jadah can also be processed into jadah tempe, which is a combination of jadah and bacem tempe. Jadah tempe is a typical Yogyakarta food that is often served at traditional events and celebrations.",
+      "image": "uploads/default-products/Makanan-Jadah-Goreng.jpg",
+      "image_2": "uploads/default-products/Makanan-Jadah-Goreng.jpg",
+      "image_3": "uploads/default-products/Makanan-Jadah-Goreng.jpg",
+      "stand_id": 17,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Jagung",
+      "categories": [
+        1,5,7
+      ],
+      "ingredients": [
+        1,
+        10,
+        11,
+        12,
+        13,
+        28,25,
+        26
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "description_id": "Nasi jagung adalah makanan tradisional Indonesia yang terbuat dari jagung tua yang sudah dipisahkan dari tongkolnya. Nasi jagung merupakan alternatif makanan pokok selain nasi putih.<br><br>Nasi jagung memiliki tekstur halus, rasa gurih, dan kaya akan nutrisi. Nasi jagung bisa disajikan dengan berbagai lauk pauk, seperti ikan asin, tempe, sayur lodeh, atau sambal terasi.",
+      "description_en": "Nasi jagung adalah makanan tradisional Indonesia yang terbuat dari jagung tua yang sudah dipisahkan dari tongkolnya. Nasi jagung merupakan alternatif makanan pokok selain nasi putih.<br><br>Nasi jagung memiliki tekstur halus, rasa gurih, dan kaya akan nutrisi. Nasi jagung bisa disajikan dengan berbagai lauk pauk, seperti ikan asin, tempe, sayur lodeh, atau sambal terasi.",
+      "image": "uploads/default-products/Makanan-Nasi-Jagung.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Jagung.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Jagung.jpg",
+      "stand_id": 1,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Gudeg",
+      "categories": [
+        1,4,5,7
+      ],
+      "ingredients": [
+        1,
+        10,
+        11,
+        12,
+        13,
+        28,17,
+        26,
+        5
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "description_id": "Asal Usul Nasi Gudeg<br><br>Gudeg (Bahasa Jawa: ꦒꦸꦝꦼꦒ꧀, baca: Gudhěg <br><br>adalah makanan khas dari Provinsi Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Proses membuat gudeg membutuhkan waktu berjam-jam. Warna cokelat biasanya diperoleh dari daun jati yang dimasak secara bersamaan. Gudeg biasanya dikonsumsi dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu, dan sambal goreng krecek. Gudeg sangat populer di Indonesia, baik sebagai makanan rumahan maupun jajanan. Gudeg juga bisa ditemukan dalam bentuk produk industri dalam kemasan. Di luar Indonesia, gudeg juga populer di negara-negara tetangga seperti Malaysia dan Singapura. Nilai Filosofi dan Budaya di balik Masakan Gudeg<br><br>Filosofi pertama yang terkait dengan gudeg adalah kehati-hatian. Proses memasak gudeg memerlukan waktu yang lama dan perhatian yang detail. Bumbu harus ditambahkan secara bertahap dan gudeg harus dipanaskan dengan hati-hati agar tidak overcooked/terlalu matang. Hal ini relevan dengan kehidupan kita, yaitu kita harus berhati-hati dan bijaksana dalam setiap tindakan kita agar tidak salah.<br><br>Kedua, nasi gudeg memiliki filosofi tentang kebersamaan. Gudeg sering dipersembahkan pada acara-acara keluarga dan perayaan hari spesial. Pembuatan gudeg juga sering menjadi aktivitas bersama keluarga, ketika semua anggota keluarga terlibat dan bekerja sama dalam membuat makanan ini. Hal ini menunjukkan bahwa dalam kehidupan, kita harus bekerja sama dan bersama-sama dalam mencapai tujuan dan memecahkan masalah.<br><br>Ketiga, gudeg memiliki filosofi tentang keikhlasan. Dalam proses memasak gudeg, walaupun setiap bumbu dan rempah dicampur dengan hati-hati, terkadang hasil rasa tidak sesuai dengan yang kita inginkan dan kita harus ikhlas, karena tidak mungkin untuk masak nasi gudeg dari awal lagi. Sesuai dengan filosofi kehidupan bahwa terkadang kita sudah melakukan yang terbaik, namun pada akhirnya kalau hasil yang diharapkan kurang sesuai, kita harus ikhlas dan menerima agar hidup kita tentram.<br><br>Jadi, nasi gudeg bukan hanya makanan khas Jawa Tengah yang enak. Gudeg juga memiliki nilai filosofi yang dalam dan makna yang penting. Kemampuan memasak gudeg dengan baik juga menjadi simbol ketrampilan dan keahlian dalam memasak yang patut diapresiasi",
+      "description_en": "Origin of Gudeg Rice<br><br>Gudeg (Javanese: ꦒꦸꦝꦼꦒ꧀, read: Gudhěg <br><br>is a typical food from the Special Region of Yogyakarta Province made from young jackfruit cooked with coconut milk. The process of making gudeg takes hours. The brown color is usually obtained from teak leaves that are cooked together. Gudeg is usually consumed with rice and served with thick coconut milk sauce (areh), free-range chicken, eggs, tempeh, tofu, and krecek fried chili sauce. Gudeg is very popular in Indonesia, both as a home-cooked meal and as a snack. Gudeg can also be found in the form of industrial products in packaging. Outside Indonesia, gudeg is also popular in neighboring countries such as Malaysia and Singapore. Philosophical and Cultural Values ​​behind Gudeg Cuisine<br><br>The first philosophy associated with gudeg is caution. The process of cooking gudeg takes a long time and detailed attention. Seasonings must be added gradually and gudeg must be heated carefully so as not to be overcooked. This is relevant to our lives, namely that we must be careful and wise in every action we take so as not to make mistakes. <br><br>Second, gudeg rice has a philosophy about togetherness. Gudeg is often served at family events and special day celebrations. Making gudeg is also often a family activity, when all family members are involved and work together in making this food. This shows that in life, we must work together and together in achieving goals and solving problems. <br><br>Third, gudeg has a philosophy about sincerity. In the process of cooking gudeg, although every spice and herb is mixed carefully, sometimes the taste is not what we want and we must accept it, because it is impossible to cook gudeg rice from the beginning again. In accordance with the philosophy of life that sometimes we have done our best, but in the end if the expected results are not as expected, we must accept it and accept it so that our lives are peaceful. <br><br>So, gudeg rice is not just a typical food Central Java is delicious. Gudeg also has a deep philosophical value and important meaning. The ability to cook gudeg well is also a symbol of skill and expertise in cooking that deserves to be appreciated.",
+      "image": "uploads/default-products/Makanan-Nasi-Gudeg.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Gudeg.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Gudeg.jpg",
+      "stand_id": 1,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Ketoprak",
+      "categories": [
+        1,4,5,7
+      ],
+      "ingredients": [
+        9,
+        1,
+        10,
+        11,
+        12,
+        13,
+        33,
+        24,
+        8,
+        29
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Ketoprak adalah makanan khas Indonesia yang terbuat dari ketupat, tahu, bihun, sayuran, dan saus kacang. Makanan ini biasa disajikan dengan tambahan kerupuk atau emping melinjo. Asal usul ketoprak masih menjadi perdebatan, tetapi ada beberapa cerita yang berkembang tentangnya. Ketoprak berasal dari Jakarta, Ketoprak berasal dari Cirebon, Ketoprak berasal dari Jawa Tengah. Salah satu cerita tentang asal usul ketoprak adalah bahwa nama makanan ini berasal dari bunyi piring yang terjatuh. Cerita ini bermula dari seorang penjual yang sedang mencoba membuat makanan baru. Setelah selesai membuat makanan, tangannya tergelincir dan piringnya terjatuh, mengeluarkan bunyi 'ketuprak'. Cerita lain menyebutkan bahwa ketoprak merupakan singkatan dari ketupat dan toge yang digeprak.Ketoprak merupakan makanan khas Betawi yang terbuat dari bihun, lontong, taoge, dan bumbu kacang. Bahan-bahannya dipengaruhi oleh akulturasi budaya Tionghoa. Ketoprak bisa disantap kapan saja, mulai dari sarapan, makan siang, hingga makan malam.",
+      "description_en": "Ketoprak is a typical Indonesian food made from ketupat, tofu, rice vermicelli, vegetables, and peanut sauce. This food is usually served with additional crackers or melinjo crackers. The origin of ketoprak is still debated, but there are several stories that have developed about it. Ketoprak comes from Jakarta, Ketoprak comes from Cirebon, Ketoprak comes from Central Java. One story about the origin of ketoprak is that the name of this food comes from the sound of a falling plate. This story begins with a seller who was trying to make a new food. After finishing making the food, his hand slipped and the plate fell, making a 'ketuprak' sound. Another story says that ketoprak is an abbreviation of ketupat and bean sprouts that are crushed. Ketoprak is a typical Betawi food made from rice vermicelli, lontong, bean sprouts, and peanut sauce. The ingredients are influenced by the acculturation of Chinese culture. Ketoprak can be eaten at any time, from breakfast, lunch, to dinner.",
+      "image": "uploads/default-products/Makanan-Ketoprak.jpg",
+      "image_2": "uploads/default-products/Makanan-Ketoprak.jpg",
+      "image_3": "uploads/default-products/Makanan-Ketoprak.jpg",
+      "stand_id": 7,
+      "price": 18000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Lontong Pecel",
+      "categories": [
+        1,4,5,7
+      ],
+      "ingredients": [
+        9,
+        1,
+        10,
+        11,
+        12,
+        35
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "description_id": "Lontong pecel adalah makanan yang terdiri dari lontong dan sayur rebus yang disiram bumbu pecel. Pecel dipercaya berasal dari Jawa Timur, terutama dari daerah Madiun.<br>Pecel sudah ada sejak zaman kerajaan Jawa kuno, bahkan mungkin sudah ada sebelum Masehi.Berikut ini adalah beberapa catatan sejarah mengenai pecel:<br>Pecel tercatat dalam Kakawin Ramayana, yang menceritakan tentang kerajaan Mataram Kuno pada abad ke-9 masehi.<br>Pecel juga tercatat dalam Serat Centhini, yang menyebutkan berbagai jenis makanan, termasuk pecel.<br>Pecel juga tercatat dalam Prasasti Siman dari Kediri, yang ditulis pada tahun 865 S/943 M.<br>Pecel juga dikisahkan dalam Babad Tanah Jawi, yang menceritakan tentang pertemuan antara Sunan Kalijaga dan Ki Gede Pamanahan.Pecel merupakan makanan yang terbuat dari sayuran yang direbus dan dicampur dengan bumbu kacang. Kata 'pecel' dalam bahasa Jawa berarti 'dilumatkan' atau 'dihancurkan'.Pecel memiliki variasi dan kekhasan tersendiri di setiap daerah di Pulau Jawa. Salah satu contohnya adalah pecel Madiun, yang terkenal dengan cita rasa khasnya.",
+      "description_en": "Lontong pecel is a food consisting of rice cakes and boiled vegetables topped with pecel sauce. Pecel is believed to have originated from East Java, especially from the Madiun area.<br>Pecel has been around since the time of the ancient Javanese kingdom, perhaps even before the Common Era. Here are some historical notes about pecel:<br>Pecel is recorded in the Kakawin Ramayana, which tells about the Ancient Mataram kingdom in the 9th century AD.<br>Pecel is also recorded in the Serat Centhini, which mentions various types of food, including pecel.<br>Pecel is also recorded in the Siman Inscription from Kediri, which was written in 865 S/943 AD.<br>Pecel is also told in the Babad Tanah Jawi, which tells about the meeting between Sunan Kalijaga and Ki Gede Pamanahan.Pecel is a food made from boiled vegetables mixed with peanut sauce. The word 'pecel' in Javanese means 'crushed' or 'destroyed'.Pecel has its own variations and characteristics in each region on the island of Java. One example is Pecel Madiun, which is famous for its distinctive taste.",
+      "image": "uploads/default-products/Makanan-Lontong-Pecel.jpg",
+      "image_2": "uploads/default-products/Makanan-Lontong-Pecel.jpg",
+      "image_3": "uploads/default-products/Makanan-Lontong-Pecel.jpg",
+      "stand_id": 5,
+      "price": 25000,
+      "portion_info": "1 plate"
+    },
+   {
+      "name": "Pentol Bakar",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        3,
+        11,
+        12,
+        6,
+        24,
+        25,
+        40,
+        25
+      ],
+      "ratings": [
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "description_id": "Pentol yang diolah dengan daging pilihan yang dipanggang dengan dioles bumbu rahasia, dan disajikan dengan saus spesial yang membuat saat dimakan ada Tekstur kenyal dengan aroma bakar yang menggoda",
+      "description_en": "Pentol is made from selected meat that is grilled and smeared with secret spices, and served with a special sauce that makes it have a chewy texture when eaten with a tempting grilled aroma.",
+      "image": "uploads/default-products/Kudapan-Pentol-Bakar.jpg",
+      "image_2": "uploads/default-products/Kudapan-Pentol-Bakar.jpg",
+      "image_3": "uploads/default-products/Kudapan-Pentol-Bakar.jpg",
+      "stand_id": 14,
+      "price": 16000,
+      "portion_info": "1 piece"
+    },
+    {
+      "name": "Nasi Ayam Laos",
+      "categories": [
+        2
+      ],
+      "ingredients": [
+        1,
+        2,
+        24,
+        10,
+        11,
+        12,
+        28,
+        13,15
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi ayam Laos adalah hidangan yang terdiri dari nasi putih dan ayam goreng lengkuas yang disajikan dengan pelengkap sambal dan lalapan. Ayam goreng lengkuas atau ayam Laos dibuat dengan menaburi ayam goreng dengan rempah lengkuas. Lengkuas dapat menambah rasa gurih dan aroma masakan, serta menghilangkan bau amis dari daging.",
+      "description_en": "Laos chicken rice is a dish consisting of white rice and galangal fried chicken served with chili sauce and fresh vegetables. Galangal fried chicken or Laos chicken is made by sprinkling fried chicken with galangal spices. Galangal can add a savory taste and aroma to the dish, as well as removing the fishy smell from the meat.",
+      "image": "uploads/default-products/Makanan-Nasi-Ayam-Laos.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Ayam-Laos.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Ayam-Laos.jpg",
+      "stand_id": 7,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+     {
+      "name": "Pentol Goreng",
+      "categories": [
+        3, 5, 7
+      ],
+      "ingredients": [
+        3,
+        11,
+        12,
+        6,
+        24,
+        25,
+        40,
+        25
+      ],
+      "ratings": [
+        2,
+        1,
+        2,
+        1,
+        1
+      ],
+      "description_id": "Pentol yang diolah dengan daging pilihan yang crispy di luar, lembut di dalam. Di Goreng hingga keemasan dengan balutan tepung spesial dan disajikan dengan saus spesial yang bikin nagih<br><brPentol yang diolah dengan daging pilihan yang crispy di luar, lembut di dalam. Di Goreng hingga keemasan dengan balutan tepung spesial dan disajikan dengan saus spesial yang bikin nagih<br><brDi Indonesia, lumpia dikenal sebagai jajanan khas Semarang dan Ujung Pandang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.",
+      "description_en": "Pentol made with selected meat that is crispy on the outside, soft on the inside. Fried until golden brown with a special flour coating and served with a special sauce that is addictive<br><brPentol made with selected meat that is crispy on the outside, soft on the inside. Fried until golden brown with a special flour coating and served with a special sauce that is addictive<br><brIn Indonesia, lumpia is known as a typical snack from Semarang and Ujung Pandang with a method of making and ingredients that have been adapted to local traditions.",
+      "image": "uploads/default-products/Kudapan-Pentol-Goreng.jpg",
+      "image_2": "uploads/default-products/Kudapan-Pentol-Goreng.jpg",
+      "image_3": "uploads/default-products/Kudapan-Pentol-Goreng.jpg",
+      "stand_id": 14,
+      "price": 25000,
+      "portion_info": "5 piece"
+    },
+    {
+      "name": "Nasi Ayam lodho",
+      "categories": [
+        1,5,7
+      ],
+      "ingredients": [
+        1,
+        5,
+        10,
+        11,
+        12,
+        5,13,25,26
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Ayam lodho adalah salah satu hidangan dari daging ayam yang berasal dari Tulungagung Jawa Timur, Indonesia. Hidangan ini adalah hidangan tradisional yang dikonsumsi sehari-hari dan digunakan sebagai sajian tradisi selamatan. Ayam lodho dimasak dengan cara memanggang atau membakar ayam kampung hingga empuk, lalu direbus dalam kuah dari santan dan bumbu-bumbu lainnya. Hidangan ini memiliki cita rasa gurih dan pedas yang berasal dari santan dan rempah-rempah yang digunakan. Umumnya disajikan dengan sega gurih atau nasi gurih (sejenis nasi uduk).<br><br>Lodho ayam menjadi salah satu hidangan yang paling dicari di Tulungagung. Makanan ini terbuat dari ayam kampung yang dimasak dengan santan kental, rempah-rempah khas, dan bumbu pedas yang meresap sempurna hingga ke tulang.",
+      "description_en": "Ayam lodho is one of the chicken dishes originating from Tulungagung, East Java, Indonesia. This dish is a traditional dish that is consumed daily and is used as a traditional celebration dish. Ayam lodho is cooked by grilling or roasting free-range chicken until tender, then boiled in a sauce of coconut milk and other spices. This dish has a savory and spicy taste that comes from the coconut milk and spices used. It is usually served with savory rice or savory rice (a type of uduk rice).<br><br>Lodho chicken is one of the most sought-after dishes in Tulungagung. This food is made from free-range chicken cooked with thick coconut milk, special spices, and spicy spices that are perfectly absorbed into the bones.",
+      "image": "uploads/default-products/Makanan-Nasi-ayam-lodho.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-ayam-lodho.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-ayam-lodho.jpg",
+      "stand_id": 16,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+   
+    {
+      "name": "Nasi Goreng",
+      "categories": [
+        1, 5, 4, 7
+      ],
+      "ingredients": [
+        1,
+        9,
+        10,
+        11,
+        12,
+        6,
+        24,
+        29
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi goreng adalah salah satu hidangan yang sangat populer di Indonesia dan juga di berbagai negara Asia. Nasi goreng terbuat dari nasi yang digoreng bersama dengan bumbu-bumbu khas yang menggugah selera. Hidangan ini terkenal karena rasanya yang gurih, sedikit manis, dan sering kali dilengkapi dengan berbagai macam lauk atau bahan tambahan. Secara tradisional, nasi goreng menggunakan nasi putih yang sudah dingin (biasanya sisa makan sebelumnya) agar teksturnya lebih pulen dan tidak menggumpal saat digoreng. Nasi kemudian digoreng dengan bumbu-bumbu seperti bawang merah, bawang putih, cabai, kecap manis, dan garam. Beberapa resep juga menambahkan saus tiram, terasi, atau kaldu untuk meningkatkan rasa.",
+      "description_en": "Fried rice is one of the most popular dishes in Indonesia and also in various Asian countries. Fried rice is made from rice that is fried together with distinctive spices that tantalize the taste buds. This dish is famous for its savory, slightly sweet taste, and is often accompanied by various side dishes or additional ingredients. Traditionally, fried rice uses cold white rice (usually leftovers from a previous meal) so that its texture is more fluffy and does not clump when fried. The rice is then fried with spices such as shallots, garlic, chilies, sweet soy sauce, and salt. Some recipes also add oyster sauce, shrimp paste, or broth to enhance the flavor.",
+      "image": "uploads/default-products/Minuman-Es-Serut-Pelangi.jpg",
+      "image_2": "uploads/default-products/Minuman-Es-Serut-Pelangi.jpg",
+      "image_3": "uploads/default-products/Minuman-Es-Serut-Pelangi.jpg",
+      "stand_id": 12,
+      "price": 12000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Mangut Nila",
+      "categories": [
+        1,4,5,6,7
+      ],
+      "ingredients": [
+        10,
+        11,
+        12,
+        4,
+        5,14,13,15,22
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi Mangut Nila adalah hidangan yang terdiri dari nasi putih hangat dan mangut ikan nila. Mangut nila merupakan masakan tradisional Jawa Tengah yang terbuat dari ikan nila yang dimasak dengan kuah santan dan bumbu khas Jawa. Mangut merupakan masakan berkuah santan yang mirip gulai, tetapi lebih encer dan pedas. Ikan yang digunakan untuk membuat mangut bisa ikan air tawar maupun ikan laut.",
+      "description_en": "Mangut Nila Rice is a dish consisting of warm white rice and mangut tilapia fish. Mangut tilapia is a traditional Central Javanese dish made from tilapia fish cooked in coconut milk and Javanese spices. Mangut is a coconut milk-based dish similar to curry, but thinner and spicier. The fish used to make mangut can be freshwater fish or sea fish.",
+      "image": "uploads/default-products/Makanan-Nasi-Mangut-Nila.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Mangut-Nila.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Mangut-Nila.jpg",
+      "stand_id": 6,
+      "price": 8000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Ikan Wader",
+      "categories": [
+        1, 6,7
+      ],
+      "ingredients": [
+        1,
+        4,
+        40,
+        10,
+        11,
+        12,
+        4,
+        5,14,13,15,22
+      ],
+      "ratings": [
+        3,
+        2,
+        2,
+        3,
+        1
+      ],
+      "description_id": "Nasi ikan wader adalah hidangan yang terdiri dari nasi hangat, ikan wader goreng, dan sambal khas. Ikan wader merupakan ikan kecil yang hidup di sungai atau kolam. Nasi ikan wader merupakan kuliner khas Jawa Timur yang sudah ada sejak masa Kerajaan Majapahit. Ikan wader yang digoreng garing dan renyah dipadukan dengan sambal pedas dan segar, serta lalapan, membuat hidangan ini terasa nikmat",
+      "description_en": "Nasi ikan wader is a dish consisting of warm rice, fried wader fish, and special chili sauce. Wader fish are small fish that live in rivers or ponds. Nasi ikan wader is a typical East Javanese culinary that has existed since the Majapahit Kingdom. Fried wader fish that is crispy and crunchy combined with spicy and fresh chili sauce, and fresh vegetables, make this dish taste delicious",
+      "image": "uploads/default-products/Makanan-Nasi-Ikan-Wader.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Ikan-Wader.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Ikan-Wader.jpg",
+      "stand_id": 6,
+      "price": 8000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Mangut Lele",
+      "categories": [
+        1,4,5,6,7
+      ],
+      "ingredients": [
+        10,
+        11,
+        12,
+        4,
+        5,14,13,15,22
+      ],
+      "ratings": [
+        4,
+        4,
+        5,
+        5,
+        4
+      ],
+      "description_id": "Nasi mangut lele adalah hidangan khas Indonesia yang terkenal terutama di daerah Jawa, khususnya Yogyakarta dan sekitarnya. Hidangan ini terdiri dari nasi yang disajikan bersama dengan lele (ikan yang dimasak dengan bumbu khas) yang memiliki cita rasa pedas dan gurih.<br>Nasi mangut lele adalah hidangan yang menggugah selera, terdiri dari nasi putih yang disajikan bersama lele yang dimasak dalam kuah berbumbu kaya dan pedas. Lele, ikan air tawar dengan daging yang lembut dan tekstur yang kenyal, dimasak dengan bumbu rempah yang melimpah, termasuk cabai, bawang merah, bawang putih, dan daun salam. Kuahnya berwarna cokelat kemerahan, hasil dari kombinasi santan, rempah-rempah, dan bahan lainnya, menciptakan rasa gurih, pedas, dan sedikit manis.<br>Hidangan ini biasanya disajikan dengan sambal yang pedas, lalapan seperti mentimun atau daun kemangi, dan kerupuk sebagai pelengkap. Kuah yang melimpah, berpadu dengan nasi hangat dan lele yang berbumbu, menciptakan rasa yang sangat kaya dan nikmat. Rasanya yang kompleks dan kaya akan rempah menjadikannya hidangan yang sangat khas dan menggugah selera, terutama bagi penggemar masakan pedas dan berbumbu.<br>Nasi mangut lele seringkali dinikmati sebagai menu makan siang atau makan malam yang memuaskan, cocok dinikmati bersama keluarga atau teman.",
+      "description_en": "Nasi mangut lele is a typical Indonesian dish that is famous especially in Java, especially Yogyakarta and its surroundings. This dish consists of rice served with catfish (fish cooked with special spices) that has a spicy and savory taste.<br>Nasi mangut lele is an appetizing dish, consisting of white rice served with catfish cooked in a rich and spicy sauce. Catfish, a freshwater fish with soft flesh and a chewy texture, is cooked with a rich spice mix, including chilies, shallots, garlic, and bay leaves. The sauce is reddish brown, the result of a combination of coconut milk, spices, and other ingredients, creating a savory, spicy, and slightly sweet taste.<br>This dish is usually served with spicy chili sauce, fresh vegetables such as cucumber or basil leaves, and crackers as a complement. The abundant sauce, combined with warm rice and spiced catfish, creates a very rich and delicious taste. Its complex and rich spice flavors make it a very distinctive and appetizing dish, especially for fans of spicy and seasoned dishes.<br>Lele mangut rice is often enjoyed as a satisfying lunch or dinner menu, perfect for enjoying with family or friends.",
+      "image": "uploads/default-products/Makanan-Nasi-mangut-lele.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-mangut-lele.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-mangut-lele.jpg",
+      "stand_id": 6,
+      "price": 8000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Manten",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        2,
+        10,11,12,9,26,14,28,13
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Salah satu sajian tradisional khas yang tak boleh dilewatkan adalah nasi manten. Perpaduan sempurna dari berbagai lauk tradisional yang kaya rasa, disusun rapi dalam satu piring penuh kelezatan. Setiap elemen di dalamnya diracik dengan rempah pilihan, menciptakan rasa yang lezat dan bikin nagih. Semua elemen seperti sambal goreng kentang, mie goreng, acar kuning, opor ayam atau opor telur, rolade goreng disajikan bersama dengan nasi hangat yang membuat perpaduan rasa gurih, manis, pedas, dan segar yang sempurna<br><br>Dalam bahasa Jawa, sego berarti nasi, sedangkan manten berarti pengantin. Dalam sepaket sego manten biasanya berisi nasi dengan lauk pauk yang ditata melingkar, terdiri dari kreni yang disajikan bersama kacang kapri utuh, semur telur, acar, dan kerupuk.",
+      "description_en": "One of the traditional dishes that should not be missed is nasi manten. A perfect combination of various traditional side dishes that are rich in flavor, neatly arranged on one plate full of deliciousness. Each element in it is mixed with selected spices, creating a delicious and addictive taste. All elements such as fried potato sambal, fried noodles, yellow pickles, chicken opor or egg opor, fried rolade are served with warm rice which creates a perfect combination of savory, sweet, spicy, and fresh flavors.<br><br>In Javanese, sego means rice, while manten means bride. A package of sego manten usually contains rice with side dishes arranged in a circle, consisting of kreni served with whole snow peas, egg stew, pickles, and crackers.",
+      "image": "uploads/default-products/Makanan-Nasi-Manten.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Manten.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Manten.jpg",
+      "stand_id": 12,
+      "price": 10000,
+      "portion_info": "1 plate"
+    },
+   
+    {
+      "name": "Nasi Ayam Kremes",
+      "categories": [
+        1, 5,7
+      ],
+      "ingredients": [
+        1,
+        2,
+        5,
+        10,
+        11,
+        12,17,9
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi ayam kremes adalah hidangan yang terdiri dari nasi, ayam goreng, dan kremesan. Kremesan adalah adonan tepung yang dibentuk menjadi serpihan-serpihan renyah. Komponen-komponen nasi ayam kremes: Nasi, Ayam goreng, Kremesan, Lalapan, Sambal. Kremesan biasanya terbuat dari tepung beras, telur, kaldu ayam, dan rempah-rempah. Kremesan berfungsi sebagai pelengkap atau topping untuk ayam goreng, sehingga memberikan tekstur renyah dan garing",
+      "description_en": "Nasi ayam kremes is a dish consisting of rice, fried chicken, and kremesan. Kremesan is a flour dough formed into crispy flakes. Components of nasi ayam kremes: Rice, Fried chicken, Kremesan, Lalapan, Sambal. Kremesan is usually made from rice flour, eggs, chicken broth, and spices. Kremesan functions as a complement or topping for fried chicken, thus providing a crispy and crunchy texture.",
+      "image": "uploads/default-products/Makanan-Nasi-Ayam-Kremes.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Ayam-Kremes.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Ayam-Kremes.jpg",
+      "stand_id": 4,
+      "price": 5000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Uduk",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        2,
+        7,8,6,10,11,12,34,26,25,13,30
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi uduk dikenal sebagai makanan khas Betawi yang menjadi menu sarapan favorit warga Jakarta. Nasi uduk dibuat dari beras yang diaron terlebih dahulu dengan air santan, daun salam, daun jeruk, laos, dan serai, untuk kemudian dikukus hingga matang. Dengan menggunakan bumbu-bumbu tersebut, tak heran jika aroma nasi uduk sangat menggoda terutama ketika masih hangat.<br>Nasi uduk biasa disajikan dengan beberapa lauk pendamping seperti ayam goreng, semur tahu, kering tempe, telur balado, bihun goreng, gorengan, dan masih banyak lagi. Tak lupa tambahan sambal kacang kemiri yang kental nan pedas untuk menambah cita rasa khasnya. <br><b>Berasal dari Melayu</b><br>Nasi uduk konon sudah ada sejak abad ke-14 dan datang melalui jalur perdagangan. Asal mulanya nasi uduk dibawa dari Tanah Melayu. Orang-orang Melayu yang ada di pulau Sumatera lalu berhijrah ke pulau Jawa. Ada banyak pendapat mengenai asal nama nasi uduk.<br>Beberapa menyebutkan bahwa nasi uduk berasal dari bahasa Sunda ‘uduk’ yang artinya bersatu atau bercampur. Tapi ada juga yang bilang kalau nama ‘uduk’ ini secara etimologi memiliki arti kata ‘susah’. Memang benar, dulu nasi uduk identik dengan makanan yang dijual di gerobak-gerobak dan hanya bisa dijumpai di pasar saja.",
+      "description_en": "Nasi uduk is known as a Betawi specialty food that is a favorite breakfast menu for Jakarta residents. Nasi uduk is made from rice that is first soaked in coconut milk, bay leaves, lime leaves, galangal, and lemongrass, then steamed until cooked. By using these spices, it is no wonder that the aroma of nasi uduk is very tempting, especially when it is still warm. <br> Nasi uduk is usually served with several side dishes such as fried chicken, stewed tofu, dried tempeh, balado eggs, fried vermicelli, fried foods, and many more. Don't forget the addition of thick and spicy candlenut sauce to add to its distinctive taste. <br><b>Originated from Malay</b><br> Nasi uduk is said to have existed since the 14th century and came through trade routes. Originally, nasi uduk was brought from the Malay Lands. The Malay people on the island of Sumatra then migrated to the island of Java. There are many opinions about the origin of the name nasi uduk. Some say that nasi uduk comes from the Sundanese word 'uduk' which means united or mixed. But there are also those who say that the name 'uduk' etymologically means the word 'difficult'. It is true, in the past nasi uduk was identical to food sold on carts and could only be found in markets.",
+      "image": "uploads/default-products/Makanan-Nasi-Uduk.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Uduk.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Uduk.jpg",
+      "stand_id": 7,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nila Bakar",
+      "categories": [
+        1, 4,5,7
+      ],
+      "ingredients": [
+        4,
+        10,
+        11,
+        12,
+        27,
+        24,
+        22,
+        14
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nila bakar adalah hidangan ikan bakar yang menggunakan ikan nila sebagai bahan utamanya. Ikan nila bakar merupakan salah satu variasi ikan bakar yang populer di Indonesia. Ikan nila segar yang dimarinasi dengan bumbu rempah pilihan, dibakar hingga menghasilkan aroma yang menggugah selera. Kulitnya yang kecokelatan menyimpan daging putih yang lembut dan juicy, dan bumbu yang meresap hingga ke dalam menciptakan ledakan rasa di setiap gigitan. Disajikan dengan sambal terasi dan lalapan segar yang menyegarkan",
+      "description_en": "Grilled tilapia is a grilled fish dish that uses tilapia as its main ingredient. Grilled tilapia is one of the popular grilled fish variations in Indonesia. Fresh tilapia marinated with selected spices, grilled to produce an appetizing aroma. Its brown skin holds soft and juicy white meat, and the spices that penetrate deep into it create an explosion of flavor in every bite. Served with shrimp paste chili sauce and refreshing fresh vegetables",
+      "image": "uploads/default-products/Makanan-Nila-Bakar.jpg",
+      "image_2": "uploads/default-products/Makanan-Nila-Bakar.jpg",
+      "image_3": "uploads/default-products/Makanan-Nila-Bakar.jpg",
+      "stand_id": 9,
+      "price": 5000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Nasi Trancam",
+      "categories": [
+        1, 5,7
+      ],
+      "ingredients": [
+        1,
+        20,
+        7,
+        8,
+        24,
+        9,
+        10,
+        11,
+        12,17,
+        4
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Nasi trancam adalah hidangan nasi yang disajikan dengan trancam, yaitu urap mentah yang dicampur kelapa parut berbumbu. Trancam merupakan makanan tradisional khas Jawa Tengah yang memiliki rasa gurih, segar, dan sedikit pedas. Trancam biasanya disajikan dengan lauk seperti ayam goreng, ayam panggang, tempe bakar, atau ikan asin. Trancam memiliki nilai filosofis yang mendalam dalam budaya masyarakat Jawa. Trancam melambangkan kesejukan dan kesegaran alam, serta kehidupan yang murni dan alami.",
+      "description_en": "Trancam rice is a rice dish served with trancam, which is raw urap mixed with spiced grated coconut. Trancam is a traditional food from Central Java that has a savory, fresh, and slightly spicy taste. Trancam is usually served with side dishes such as fried chicken, grilled chicken, grilled tempeh, or salted fish. Trancam has a deep philosophical value in Javanese culture. Trancam symbolizes the coolness and freshness of nature, as well as a pure and natural life.",
+      "image": "uploads/default-products/Makanan-Nasi-Trancam.jpg",
+      "image_2": "uploads/default-products/Makanan-Nasi-Trancam.jpg",
+      "image_3": "uploads/default-products/Makanan-Nasi-Trancam.jpg",
+      "stand_id": 17,
+      "price": 5000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Sego Brokohan",
+      "categories": [
+        1, 4, 5, 7
+      ],
+      "ingredients": [
+        1,
+        2,
+        10,
+        11,
+        12,
+        6,
+        7,
+        8,
+        9,
+        33
+      ],
+      "ratings": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+       "description_id": "Sego brokohan adalah makanan yang disajikan dalam upacara brokohan, yaitu tradisi adat Jawa untuk menyambut kelahiran bayi. Brokohan juga disebut bancaan. Sesaji brokohan yang disajikan bisa berupa nasi tumpeng, nasi ambengan, jenang, telur, ayam, dan lain-lain. Sesaji ini dibagikan kepada sanak saudara dan tetangga.",
+      "description_en": "Sego brokohan is a food served in the brokohan ceremony, a Javanese tradition to welcome the birth of a baby. Brokohan is also called bancaan. The offerings of brokohan served can be tumpeng rice, ambengan rice, jenang, eggs, chicken, and others. These offerings are shared with relatives and neighbors.",
+      "image": "uploads/default-products/Makanan-Sego-Brokohan.jpg",
+      "image_2": "uploads/default-products/Makanan-Sego-Brokohan.jpg",
+      "image_3": "uploads/default-products/Makanan-Sego-Brokohan.jpg",
+    "stand_id": 10,
+      "price": 20000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Sego Jotos",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        7,
+        8,
+        10,
+        11,
+        12,
+        9,
+        24,
+        22
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Sego Jotos adalah salah satu makanan khas dari daerah Solo, Jawa Tengah. Makanan ini cukup unik karena menyajikan nasi dengan lauk yang sangat beragam, tetapi yang membuatnya berbeda adalah cara penyajiannya yang melimpah dan menggunakan berbagai bahan yang kaya rasa. Umumnya, sego jotos terdiri dari nasi putih yang disajikan dengan berbagai macam lauk-pauk seperti ayam goreng, tempe, tahu, telur rebus, sambal, dan sayuran seperti daun singkong atau tauge. Salah satu ciri khas dari sego jotos adalah adanya tambahan sambal yang pedas dan terasa gurih, yang memberikan cita rasa yang menggugah selera. Nama 'Jotos' sendiri berasal dari kata 'jotos' yang dalam bahasa Jawa berarti pukulan, yang menggambarkan sajian yang 'berjotos-jotos' atau berlimpah banyak, dengan lauk yang cukup besar porsinya. Makanan ini bisa ditemukan di warung-warung makan sederhana atau di beberapa pasar tradisional di Solo. Sego Jotos seringkali dinikmati sebagai hidangan yang memuaskan karena porsi yang besar dan beragamnya lauk yang ada, cocok untuk mereka yang lapar dan ingin makan dengan porsi besar.",
+      "description_en": "Sego Jotos is one of the typical foods from the Solo area, Central Java. This food is quite unique because it serves rice with a variety of side dishes, but what makes it different is the way it is served in abundance and uses various ingredients that are rich in flavor. Generally, sego jotos consists of white rice served with various side dishes such as fried chicken, tempeh, tofu, boiled eggs, chili sauce, and vegetables such as cassava leaves or bean sprouts. One of the characteristics of sego jotos is the addition of spicy and savory chili sauce, which gives an appetizing taste. The name 'Jotos' itself comes from the word 'jotos' which in Javanese means punch, which describes a dish that is 'jotos-jotos' or abundant, with side dishes that are quite large in portion. This food can be found in simple food stalls or in several traditional markets in Solo. Sego Jotos is often enjoyed as a satisfying dish because of the large portion and variety of side dishes available, suitable for those who are hungry and want to eat large portions.",
+      "image": "uploads/default-products/Makanan-Sego-Jotos-1.jpg",
+      "image_2": "uploads/default-products/Makanan-Sego-Jotos-1.jpg",
+      "image_3": "uploads/default-products/Makanan-Sego-Jotos-1.jpg",
+      "stand_id": 15,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+
+    {
+      "name": "Sop Manten",
+      "categories": [
+        1, 5
+      ],
+      "ingredients": [
+        9,
+        35,
+        24,
+        2,
+        25,
+        11
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Sop manten adalah salah satu jenis hidangan sup khas Jawa yang sering disajikan dalam acara-acara pernikahan atau perayaan besar lainnya. Nama 'sop manten' sendiri berasal dari kata 'manten' yang berarti pengantin dalam bahasa Jawa, karena hidangan ini biasanya disajikan dalam pesta pernikahan atau acara besar sebagai simbol kemakmuran dan kehormatan bagi tamu. Sop manten memiliki kuah yang kaya rasa, biasanya berwarna bening atau kekuningan, dengan cita rasa gurih yang khas. Sup ini dibuat dari kaldu daging sapi yang dimasak dengan rempah-rempah tradisional yang memberikan rasa hangat dan lezat. Sop yang kaya rasa perpaduan sempurna bahan-bahan segar yang diracik dengan sempurna. potongan wortel yang manis, jagung yang renyah, lembutnya makroni, suwiran ayam yang gurih berpadu dengan irisan bakso kenyal dan sosis yang tipis, ditambah dengan kapri segar menambah tekstur unik setiap suapan. Tidak lupa dengan kuah kaldu Sop Manten dengan rasa gurih yang sempurna membuat siapa pun ingin mencobanya lagi dan lagi.",
+      "description_en": "Sop manten is one type of typical Javanese soup dish that is often served at weddings or other big celebrations. The name 'sop manten' itself comes from the word 'manten' which means bride in Javanese, because this dish is usually served at weddings or big events as a symbol of prosperity and honor for guests. Sop manten has a rich broth, usually clear or yellowish in color, with a distinctive savory taste. This soup is made from beef broth cooked with traditional spices that give it a warm and delicious taste. The rich soup is a perfect blend of fresh ingredients that are perfectly blended. Sweet carrot pieces, crunchy corn, soft macaroni, savory shredded chicken combined with chewy meatball slices and thin sausages, plus fresh peas add a unique texture to each bite. Don't forget the Sop Manten broth with a perfect savory taste that makes anyone want to try it again and again.",
+      "image": "uploads/default-products/Makanan-Sop-Manten.jpg",
+      "image_2": "uploads/default-products/Makanan-Sop-Manten.jpg",
+      "image_3": "uploads/default-products/Makanan-Sop-Manten.jpg",
+      "stand_id": 12,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Soto Ayam",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        2,
+        11,
+        12,
+        10,
+        14,15,13,9
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Soto ayam adalah salah satu jenis soto yang sangat terkenal di Indonesia. Ini adalah hidangan sup berbahan dasar ayam yang dimasak dengan berbagai rempah-rempah khas Indonesia, menghasilkan rasa yang gurih, segar, dan sedikit beraroma rempah yang khas. Soto ayam sering dijadikan makanan yang menggugah selera, cocok untuk makan siang atau makan malam.<br>Ciri khas dari soto ayam adalah kuahnya yang bening atau kuning, tergantung pada bahan yang digunakan. Kuah soto ayam biasanya terbuat dari kaldu ayam yang dimasak bersama dengan rempah-rempah seperti serai, daun salam, kunyit, jahe, dan lengkuas. Bumbu-bumbu ini memberikan rasa hangat dan kaya akan rempah. Soto ayam sangat bervariasi di berbagai daerah di Indonesia. Setiap daerah memiliki cara penyajian dan bahan pelengkap yang berbeda. Misalnya, di Jakarta, soto ayam sering disajikan dengan nasi dan sambal, sementara di daerah lain seperti Surabaya, soto ayam mungkin lebih sering disajikan dengan lontong.<br>Hidangan ini terkenal karena kesegarannya, cocok untuk dinikmati kapan saja, terutama saat cuaca dingin atau ketika sedang ingin makanan yang menenangkan.",
+      "description_en": "Soto ayam is one of the most famous types of soto in Indonesia. It is a chicken-based soup dish cooked with various typical Indonesian spices, resulting in a savory, fresh, and slightly aromatic taste. Soto ayam is often served as an appetizing meal, perfect for lunch or dinner. <br>The characteristic of soto ayam is its clear or yellow broth, depending on the ingredients used. Soto ayam broth is usually made from chicken stock cooked together with spices such as lemongrass, bay leaves, turmeric, ginger, and galangal. These spices provide a warm and rich flavor. Soto ayam varies greatly across regions in Indonesia. Each region has a different way of serving and complementary ingredients. For example, in Jakarta, soto ayam is often served with rice and chili sauce, while in other areas such as Surabaya, soto ayam may be served more often with lontong. <br>This dish is famous for its freshness, perfect to enjoy at any time, especially during cold weather or when you are in the mood for comfort food.",
+      "image": "uploads/default-products/Makanan-Soto-Ayam.jpg",
+      "image_2": "uploads/default-products/Makanan-Soto-Ayam.jpg",
+      "image_3": "uploads/default-products/Makanan-Soto-Ayam.jpg",
+      "stand_id": 5,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Bubur Ayam",
+      "categories": [
+        1, 5, 7
+      ],
+      "ingredients": [
+        1,
+        2,
+        11,
+        12,
+        10,
+        14,15,13,9
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Bubur ayam adalah makanan khas Indonesia yang terbuat dari beras, daging ayam, dan kuah kaldu. Bubur ayam biasanya disajikan hangat dan cocok untuk sarapan. Bubur ayam diperkirakan berasal dari Tiongkok dan dibawa oleh para perantau Tionghoa ke Indonesia pada abad ke-16. Seiring waktu, bubur ayam mengalami adaptasi dan berkembang menjadi hidangan khas Indonesia, Kandungan gizi Bubur ayam mengandung karbohidrat dari nasi, protein dari ayam, dan berbagai sayuran pelengkap. Bubur ayam hangat dapat membantu memulihkan daya tahan tubuh. Variasi Bubur ayam Jakarta yang kental dengan kuah kuning Bubur ayam Bandung yang lebih sederhana Bubur ayam Cirebon yang disajikan dengan kecap dan cakwe",
+      "description_en": "Chicken porridge is a typical Indonesian food made from rice, chicken meat, and broth. Chicken porridge is usually served warm and is perfect for breakfast. Chicken porridge is thought to have originated from China and was brought by Chinese migrants to Indonesia in the 16th century. Over time, chicken porridge has adapted and developed into a typical Indonesian dish. The nutritional content of chicken porridge contains carbohydrates from rice, protein from chicken, and various complementary vegetables. Warm chicken porridge can help restore the body's immune system. Variations of Jakarta chicken porridge which is thick with yellow broth Simpler Bandung chicken porridge Cirebon chicken porridge served with soy sauce and cakwe",
+      "image": "uploads/default-products/makanan-Bubur-Ayam.jpg",
+      "image_2": "uploads/default-products/makanan-Bubur-Ayam.jpg",
+      "image_3": "uploads/default-products/makanan-Bubur-Ayam.jpg",
+      "stand_id": 3,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Tepo Kecap",
+      "categories": [
+        1, 4, 5, 7
+      ],
+      "ingredients": [
+        33,
+        8,
+        6,
+        17,
+        9,
+        10,
+        11,
+        12
+      ],
+      "ratings": [
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "description_id": "Hidangan Tradisional Tepo Kecap merupakan hidangan yang sederhana namun penuh rasa. Kombinasi Irisan tepo (lontong) yang disajikan dengan kuah kecap manis yang dicampur dengan bawang goreng, cabai rawit, dan sedikit kacang yang membuat rasa manis, pedas, dan segar berpadu menjadi satu",
+      "description_en": "Traditional Tepo Kecap Dish is a simple yet flavorful dish. The combination of sliced ​​tepo (lontong) served with sweet soy sauce mixed with fried onions, cayenne pepper, and a little peanuts makes the sweet, spicy, and fresh taste blend into one.",
+      "image": "uploads/default-products/Makanan-Tepo-Kecap.jpg",
+      "image_2": "uploads/default-products/Makanan-Tepo-Kecap.jpg",
+      "image_3": "uploads/default-products/Makanan-Tepo-Kecap.jpg",
+      "stand_id": 4,
+      "price": 15000,
+      "portion_info": "1 plate"
+    },
+    {
+      "name": "Es Ambyar",
+      "categories": [
+         2,
+        4,
+        8
+      ],
+      "ingredients": [
+     37,38,22, 31
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "description_id": "Minuman ini dinamakan ambyar karena mempunyai beraneka macam isi. Rasa manisnya sirup yang khas dan susu meleleh di setiap tegukannya. Berisi berbagai jenis buah mulai dari nanas, naga, dan buah lainnya menggugah selera.<br><br>Selain itu, minuman ini juga ada jelinya loh! Jeli yang diserut ini memberikan kesan lembut dan manis setiap gigitannya. Dengan kombinasi susu, buah, dan dinginnya es batu membuat setiap komposisi meleleh satu sama lain dan siap untuk dinikmati.",
+      "description_en": "This drink is called ambyar because it has various contents. The sweet taste of the distinctive syrup and milk melts in every sip. Contains various types of fruit ranging from pineapple, dragon fruit, and other fruits that are appetizing. <br><br>In addition, this drink also has jelly! This shaved jelly gives a soft and sweet impression in every bite. With a combination of milk, fruit, and cold ice cubes, each composition melts into each other and is ready to be enjoyed.",
+      "image": "uploads/default-products/Minuman-Es-Ambyar.jpg",
+      "image_2": "uploads/default-products/Minuman-Es-Ambyar.jpg",
+      "image_3": "uploads/default-products/Minuman-Es-Ambyar.jpg",
+      "stand_id": 14,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Es Dawet Watok",
+      "categories": [
+         2,
+        4,
+        8
+      ],
+      "ingredients": [
+        18,
+        23,
+        26,
+        24,
+        17,
+        5
+      ],
+      "ratings": [
+        3,
+        4,
+        3,
+        3,
+        3
+      ],
+       "description_id": "Es dawet wetoh adalah minuman tradisional khas Jawa yang terbuat dari tepung beras, santan, gula, dan es parut. Minuman ini memiliki rasa manis dan gurih sehingga cocok untuk segala kalangan usia.<br><br>Dawet adalah salah satu minuman menyegarkan yang menjadi salah satu kuliner khas Indonesia. Di Yogyakarta dan Jawa Tengah, minuman bercita rasa manis dan gurih ini terdiri dari santan, kinca dan juga adonan tepung beras. Di Jawa Barat, minuman jenis ini juga dikenal dengan nama cendol. Dari cerita yang berkembang, istilah cendol mungkin sekali berasal dari kata 'jendol' yang ditemukan dalam bahasa Sunda, Jawa dan Indonesia. Hal ini merujuk dari sensasi jendalan yang dirasakan saat butiran cendol melewati mulut. Dikutip dari buku Gastronomi Indonesia Jilid 2, jenis cendol dikenal dengan warnanya seperti cendol hijau, putih atau hitam.<br><br> Sementara itu jenis dawet yang terkenal di Jawa salah satunya dawet ayu dari Banjarnegara. Ciri khasnya adalah terdapat simbol Semar dan Gareng di gerobak penjualnya. Sementara di Kecamatan Butuh, Purworejo terkenal es dawet ireng. Kata ireng berasal dari bahasa Jawa yang artinya hitam. Warna hitam berasal dari serbuk pembakaran jerami yang dicampur dengan air hingga menghasilkan air hitam untuk pewarna. Lalu ada dawet gandul ketan khas Pleret yang dicampur dengan bubur sumsun dan grandul atau bola-bola yang terbuat dari tepung ketan dengan rasa kenyal dan gurih.<br><br>Ada juga es dawet jabung dari Ponorogo, es dawet Jepara, es dawet Semarangan dan es dawet Siwalan dari Jawa Timur. Serta es dawet telasih dari Solo dan es batil Lamongan yang terbuat dari roti tepung berasm parutan kelapa dan ragi.",
+      "description_en": "Es dawet wetoh is a traditional Javanese drink made from rice flour, coconut milk, sugar, and grated ice. This drink has a sweet and savory taste so it is suitable for all ages. <br><br>Dawet is one of the refreshing drinks that is one of Indonesia's culinary specialties. In Yogyakarta and Central Java, this sweet and savory drink consists of coconut milk, kinca and also rice flour dough. In West Java, this type of drink is also known as cendol. From the story that developed, the term cendol probably comes from the word 'jendol' which is found in Sundanese, Javanese and Indonesian. This refers to the sensation of the jendalan felt when the cendol grains pass through the mouth. Quoted from the book Gastronomi Indonesia Volume 2, the type of cendol is known by its color such as green, white or black cendol. <br><br> Meanwhile, one of the famous types of dawet in Java is dawet ayu from Banjarnegara. Its characteristic is that there are symbols of Semar and Gareng on the seller's cart. Meanwhile, in Butuh District, Purworejo, black dawet ice is famous. The word black comes from Javanese which means black. The black color comes from straw burning powder mixed with water to produce black water for coloring. Then there is the typical Pleret sticky rice dawet gandul mixed with sumsun porridge and grandul or balls made from sticky rice flour with a chewy and savory taste. <br><br>There is also jabung dawet ice from Ponorogo, Jepara dawet ice, Semarangan dawet ice and Siwalan dawet ice from East Java. As well as telasih dawet ice from Solo and Lamongan batil ice made from rice flour bread, grated coconut and yeast.",
+      "image": "uploads/default-products/Minuman-Es-Dawet-Wetok.jpg",
+      "image_2": "uploads/default-products/Minuman-Es-Dawet-Wetok.jpg",
+      "image_3": "uploads/default-products/Minuman-Es-Dawet-Wetok.jpg",
+    "stand_id": 11,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "Es Manten",
+      "categories": [
+       2,
+        4,
+        8
+      ],
+      "ingredients": [
+        38,
+       30,
+       17,
+       31
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+       "description_id": "Es Manten, sajian minuman segar yang bisa menghilangkan dahaga. Perpaduan warna-warni agar-agar merah, hijau, dan putih yang lembut dan kenyal, berpadu dengan sensasi kenyalnya nata de coco, serta biji selasih yang memberikan tekstur unik di setiap sendokan. Semua ini direndam dalam sirup manis yang diracik dari gula pasir, air, dan harumnya kayu manis. Aroma pandan yang khas memberikan rasa segar yang membekas di lidah",
+      "description_en": "Es Manten, a refreshing drink that can quench your thirst. A combination of soft and chewy red, green, and white agar-agar, combined with the chewy sensation of nata de coco, and basil seeds that provide a unique texture in every spoonful. All of this is soaked in a sweet syrup made from granulated sugar, water, and the aroma of cinnamon. The distinctive aroma of pandan provides a fresh taste that lingers on the tongue.",
+      "image": "uploads/default-products/Minuman-Es-Manten.jpg",
+      "image_2": "uploads/default-products/Minuman-Es-Manten.jpg",
+      "image_3": "uploads/default-products/Minuman-Es-Manten.jpg",
+      "stand_id": 12,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+    {
+      "name": "ES TAYO",
+      "categories": [
+         2,
+        4,
+        8
+      ],
+      "ingredients": [
+        38,
+        28,
+        30,
+        29,
+        22
+      ],
+      "ratings": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+       "description_id": "Minuman Khas Pasar Pundensari yakni Es Tayo adalah sajian segar dengan perpaduan melon serut, setup nanas, cincau hitam, dan potongan agar-agar yang kenyal. Ditambah dengan siraman sirup cocopandan dan melon yang berpadu dengan susu kental manis, menciptakan kesegaran rasa yang menyegarkan",
+      "description_en": "Pasar Pundensari's signature drink, Es Tayo, is a refreshing drink with a combination of shaved melon, pineapple syrup, black grass jelly, and chewy agar-agar pieces. Added with a sprinkling of cocopandan syrup and melon combined with sweetened condensed milk, creating a refreshing taste.",
+      "image": "uploads/default-products/Minuman-ES-TAYO-2.jpg",
+      "image_2": "uploads/default-products/Minuman-ES-TAYO-2.jpg",
+      "image_3": "uploads/default-products/Minuman-ES-TAYO-2.jpg",
+      "stand_id": 2,
+      "price": 15000,
+      "portion_info": "1 glass"
+    },
+   
+    {
+      "name": "Wedang Uwuh",
+      "categories": [
+        2,
+        5
+      ],
+      "ingredients": [
+        15,
+        13,
+        22,
+        25
+      ],
+      "ratings": [
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+        "description_id": "Wedang Uwuh adalah minuman tradisional khas Yogyakarta yang terbuat dari berbagai rempah-rempah alami seperti jahe, kayu secang, daun pala, daun kayu manis, gagang cengkeh, dan gula batu. Minuman ini dikenal memiliki rasa hangat dan kaya rempah, sangat cocok dinikmati di cuaca dingin. Nama 'uwuh' dalam bahasa Jawa berarti 'sampah'.<br> Minuman ini dinamakan demikian karena bahan-bahannya berupa daun-daunan dan rempah kering yang jika dilihat sekilas tampak seperti tumpukan sampah, meskipun sebenarnya memiliki banyak manfaat bagi kesehatan. Menurut situs warisanbudaya.kemdikbud.go.id, asal-usul Wedang Uwuh berkaitan dengan kisah Sultan Agung, Raja Mataram dari Yogyakarta. Diceritakan bahwa suatu hari Sultan Agung bersama para pengawalnya mencari lokasi untuk dijadikan makam keluarga kerajaan. Setelah berkeliling, mereka akhirnya memilih Bukit Merak di daerah Imogiri, Bantul.<br> Sebelum keputusan tersebut disahkan, Sultan Agung memutuskan untuk melakukan semedi di lokasi tersebut. Pada malam hari, beliau meminta seorang pengawal untuk membuatkan minuman hangat. Pengawal pun menyiapkan wedang secang dan meletakkannya di bawah pepohonan dekat tempat sang raja bersemedi. Karena angin malam bertiup kencang, daun-daun dan ranting-ranting pohon berjatuhan ke dalam wadah wedang tanpa sepengetahuan siapa pun. Dalam gelap malam, Sultan Agung meminum wedang tersebut dan merasa bahwa minuman itu sangat nikmat serta mampu menghangatkan tubuhnya. Keesokan harinya, Sultan Agung meminta dibuatkan minuman yang sama.<br>Ketika pengawal melihat kembali wadah minuman sang raja, ia menyadari bahwa isi minuman tersebut berbeda dari resep awal. Ia pun mencoba meracik ulang campuran baru tersebut, dan ternyata rasanya sesuai dengan yang dimaksud sang raja. Sejak saat itu, minuman tersebut menjadi favorit Sultan Agung dan masyarakat sekitar. Minuman itu pun diberi nama Wedang Uwuh, dan hingga kini menjadi salah satu warisan kuliner khas Yogyakarta yang masih sangat populer.",
+      "description_en": "Wedang Uwuh is a traditional drink from Yogyakarta made from various natural spices such as ginger, sappanwood, nutmeg leaves, cinnamon leaves, clove stems, and rock sugar. This drink is known to have a warm and rich spice taste, perfect for enjoying in cold weather. The name 'uwuh' in Javanese means 'garbage'.<br> This drink is so named because the ingredients are leaves and dried spices which at first glance look like piles of garbage, even though they actually have many health benefits. According to the site Warisanbudaya.kemdikbud.go.id, the origin of Wedang Uwuh is related to the story of Sultan Agung, King of Mataram from Yogyakarta. It is said that one day Sultan Agung and his guards were looking for a location to be used as a tomb for the royal family. After going around, they finally chose Merak Hill in the Imogiri area, Bantul.<br> Before the decision was ratified, Sultan Agung decided to meditate at that location. At night, he asked a guard to make a warm drink. The guard then prepared secang wedang and placed it under the trees near where the king was meditating. Because the night wind blew hard, leaves and tree branches fell into the container of wedang without anyone's knowledge. In the dark of night, Sultan Agung drank the wedang and felt that the drink was very delicious and was able to warm his body. The next day, Sultan Agung asked for the same drink to be made. When the guard looked back at the king's drink container, he realized that the contents of the drink were different from the original recipe. He tried to remix the new mixture, and it turned out that the taste was according to what the king meant. Since then, the drink has become a favorite of Sultan Agung and the surrounding community. The drink was named Wedang Uwuh, and until now it has become one of Yogyakarta's culinary heritages that is still very popular.",
+      "image": "uploads/default-products/minuman-Wedang-Uwuh.jpg",
+      "image_2": "uploads/default-products/minuman-Wedang-Uwuh.jpg",
+      "image_3": "uploads/default-products/minuman-Wedang-Uwuh.jpg",
+      "stand_id": 1,
+      "price": 150000,
+      "portion_info": "1 glass"
+    }
+  ]
+}
