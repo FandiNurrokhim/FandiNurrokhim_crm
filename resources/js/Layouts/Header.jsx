@@ -80,9 +80,6 @@ const AppHeader = () => {
                 )}
               </div>
 
-              <ResponsiveNavLink href={route("profile.edit")}>
-                {t("profile")}
-              </ResponsiveNavLink>
               <ResponsiveNavLink method="post" href={route("logout")} as="button">
                 {t("logout")}
               </ResponsiveNavLink>

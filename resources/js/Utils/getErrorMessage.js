@@ -18,7 +18,9 @@ export function getInertiaErrorMessage(error, lang = 'id') {
 }
 
 
-export default function getErrorMessage = (error, t, locale = "id") =>
+const getErrorMessage = (error, t, locale = "id") =>
     typeof error?.response?.data?.message === "object"
         ? error.response.data.message[t("global.locale", locale)] || error.response.data.message.id || error.response.data.message.en || t("global.anErrorOccurred", "An error occurred.")
         : error?.response?.data?.message || t("global.anErrorOccurred", "An error occurred.");
+
+export default getErrorMessage;

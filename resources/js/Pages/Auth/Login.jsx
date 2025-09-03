@@ -8,8 +8,8 @@ import {useTranslation} from 'react-i18next';
 
 export default function Login({ status }) {
     const { data, setData, post, processing, errors, reset } = useForm({
-        email: '',
-        password: '',
+        email: 'admin@superadmin.com',
+        password: 'password',
         remember: false,
     });
 

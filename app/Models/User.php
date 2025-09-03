@@ -9,7 +9,7 @@ use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
-class User extends Authenticatable
+class User extends Authenticatable implements \Tymon\JWTAuth\Contracts\JWTSubject
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasRoles, HasFactory, Notifiable;
@@ -30,7 +30,6 @@ class User extends Authenticatable
         'state',
         'country',
         'photo_profile',
-        'budget'
     ];
 
     /**
@@ -54,5 +53,15 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+
+    public function getJWTIdentifier()
+    {
+        return $this->getKey();
+    }
+
+    public function getJWTCustomClaims()
+    {
+        return [];
     }
 }

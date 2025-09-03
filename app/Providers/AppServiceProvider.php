@@ -18,12 +18,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->app->singleton(ContentBasedFilteringService::class, function ($app) {
-            return new ContentBasedFilteringService();
-        });
-        $this->app->singleton(CollaborativeFilteringService::class, function ($app) {
-            return new CollaborativeFilteringService();
-        });
+     
     }
 
     /**

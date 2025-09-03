@@ -1,1 +1,0 @@
-import{j as e}from"./app-DdujxetC.js";const a=({title:s,subtitle:t})=>e.jsxs("div",{className:"flex flex-col mb-4",children:[e.jsx("h1",{className:"text-2xl font-bold text-gray-900",children:s}),e.jsx("p",{className:"text-sm text-gray-600",children:t})]});export{a as P};

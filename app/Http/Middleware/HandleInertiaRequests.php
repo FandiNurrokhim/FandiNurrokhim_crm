@@ -50,9 +50,7 @@ class HandleInertiaRequests extends Middleware
                         'google_id',
                     ]),
                     [
-                        'favorite_count' => $user->favorites()->count(),
                         'canAccessDashboard' => $user->can('dashboard'),
-                        'isPreferenceStored' => $user->hasPreference(),
                     ]
                 ) : null,
             ],

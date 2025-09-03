@@ -11,7 +11,7 @@ class MenuSeeder extends Seeder
     {
         Menu::create([
             'type' => 'PARENT',
-            'title_id' => 'Beranda',
+            'title_id' => 'Dasbor',
             'title_en' => 'Dashboard',
             'icon' => 'fa-solid fa-house',
             'route' => 'admin.dashboard.index'
@@ -42,51 +42,58 @@ class MenuSeeder extends Seeder
         ]);
 
 
-        Menu::create([
-            'type' => 'HEADER',
-            'title_id' => 'Data Master',
-            'title_en' => 'Master Data'
-        ]);
+        // Leads (Calon Customer)
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Leads',
+        //     'title_en' => 'Leads',
+        //     'icon' => 'fa-solid fa-user-plus',
+        //     'route' => 'lead.index'
+        // ]);
 
-        Menu::create([
-            'type' => 'PARENT',
-            'header' => 'Master Data',
-            'title_id' => 'Portofolio',
-            'title_en' => 'Portfolio',
-            'icon' => 'fa-solid fa-box',
-            'route' => 'admin.portfolio.index'
-        ]);
-        Menu::create([
-            'type' => 'PARENT',
-            'header' => 'Master Data',
-            'title_id' => 'Skills',
-            'title_en' => 'Skills',
-            'icon' => 'fa-solid fa-store',
-            'route' => 'admin.skills.index'
-        ]);
-        Menu::create([
-            'type' => 'PARENT',
-            'header' => 'Master Data',
-            'title_id' => 'Teknologi Pengembangan',
-            'title_en' => 'Tech Used',
-            'icon' => 'fa-solid fa-store',
-            'route' => 'admin.tech.index'
-        ]);
-        Menu::create([
-            'type' => 'PARENT',
-            'header' => 'Master Data',
-            'title_id' => 'Pendidikan',
-            'title_en' => 'Education',
-            'icon' => 'fa-solid fa-graduation-cap',
-            'route' => 'admin.education.index'
-        ]);
-        Menu::create([
-            'type' => 'PARENT',
-            'header' => 'Master Data',
-            'title_id' => 'Karir',
-            'title_en' => 'Career',
-            'icon' => 'fa-solid fa-carrot',
-            'route' => 'admin.career.index'
-        ]);
+        // // Master Produk
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Produk',
+        //     'title_en' => 'Products',
+        //     'icon' => 'fa-solid fa-box',
+        //     'route' => 'product.index'
+        // ]);
+
+        // // Project / Deal Pipeline
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Proyek / Deal',
+        //     'title_en' => 'Deal Pipeline',
+        //     'icon' => 'fa-solid fa-diagram-project',
+        //     'route' => 'deal.index'
+        // ]);
+
+        // // Approval
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Approval',
+        //     'title_en' => 'Approval',
+        //     'icon' => 'fa-solid fa-check-to-slot',
+        //     'route' => 'approval.index'
+        // ]);
+
+        // // Customer Aktif
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Customer Aktif',
+        //     'title_en' => 'Active Customers',
+        //     'icon' => 'fa-solid fa-users',
+        //     'route' => 'customer.index'
+        // ]);
+
+        // // Reporting
+        // Menu::create([
+        //     'type' => 'PARENT',
+        //     'title_id' => 'Laporan',
+        //     'title_en' => 'Reporting',
+        //     'icon' => 'fa-solid fa-chart-line',
+        //     'route' => 'report.index'
+        // ]);
     }
 }

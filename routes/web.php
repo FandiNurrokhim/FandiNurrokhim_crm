@@ -22,13 +22,13 @@ Route::get('/cek-locale', function () {
     ]);
 });
 
-Route::get('project/{id}', function ($id) {
-    return Inertia::render('Project/Detail', [
-        'project' => Portfolio::findOrFail($id),
-    ]);
-})->name('project.detail');
+// Route::get('project/{id}', function ($id) {
+//     return Inertia::render('Project/Detail', [
+//         'project' => Portfolio::findOrFail($id),
+//     ]);
+// })->name('project.detail');
 
-Route::middleware('auth')->group(function () {
+Route::middleware(['auth'])->group(function () {
     require __DIR__ . '/route-files/dashboard.php';
     require __DIR__ . '/route-files/user.php';
     require __DIR__ . '/route-files/role.php';

@@ -11,7 +11,7 @@ import Card from "@/Components/Atoms/Card";
 import LightboxImage from "@/Components/Atoms/LightboxImage";
 
 // Utlis
-import { getErrorMessage } from "@/Utils/getErrorMessage";
+// import { getErrorMessage } from "@/Utils/getErrorMessage";
 
 // Translate
 import { useTranslation } from "react-i18next";

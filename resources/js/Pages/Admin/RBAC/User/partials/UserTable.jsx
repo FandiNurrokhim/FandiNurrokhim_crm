@@ -11,7 +11,7 @@ import Card from "@/Components/Atoms/Card";
 import Avatar from "@/Components/Molecules/Avatar";
 
 // Utlis
-import { getErrorMessage } from "@/Utils/getErrorMessage";
+// import { getErrorMessage } from "@/Utils/getErrorMessage";
 import { getCountryName, getStateName, getCountryFlagUrl } from "@/Utils/countryStateHelper";
 
 // Translate
@@ -83,13 +83,13 @@ const UserTable = () => {
             })
             .catch((error) => {
                 setIsProcessing(false);
-                const errorMessage = getErrorMessage(error, t, i18n.language);
+                // const errorMessage = getErrorMessage(error, t, i18n.language);
 
-                Swal.fire(
-                    t("global.swalError", "Error!"),
-                    errorMessage,
-                    "error"
-                );
+                // Swal.fire(
+                //     t("global.swalError", "Error!"),
+                //     errorMessage,
+                //     "error"
+                // );
             });
     };
 
@@ -110,8 +110,8 @@ const UserTable = () => {
             })
             .catch((error) => {
                 setIsProcessing(false);
-                const errorMessage = getErrorMessage(error, t, i18n.language);
-                Swal.fire("Error!", errorMessage, "error");
+                // const errorMessage = getErrorMessage(error, t, i18n.language);
+                // Swal.fire("Error!", errorMessage, "error");
             });
     };
 

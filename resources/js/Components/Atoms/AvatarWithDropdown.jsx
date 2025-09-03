@@ -63,12 +63,6 @@ export default function AvatarDropdown({ className }) {
               Dashboard
             </ResponsiveNavLink>
           )}
-          <ResponsiveNavLink href={route("profile.edit")}>
-            {t("global.profile")}
-          </ResponsiveNavLink>
-          <ResponsiveNavLink href={route("home.getFavorites")}>
-            {t("global.favorite")}
-          </ResponsiveNavLink>
           <ResponsiveNavLink method="post" href={route("logout")} as="button">
             Logout
           </ResponsiveNavLink>

@@ -1,1 +1,0 @@
-import{y as r,l as e}from"./index-CZ0tZ6fy.js";const l=(s,i="success")=>{const o={position:"top-right",autoClose:5e3,hideProgressBar:!1,closeOnClick:!1,pauseOnHover:!0,draggable:!0,progress:void 0,theme:"light",transition:e,limit:3};i==="success"?r.success(`${s}`,o):i==="info"?r.info(`${s}`,o):i==="error"?r.error(`${s}`,o):i==="warning"?r.warning(`${s}`,o):r(s,o)};export{l as s};
