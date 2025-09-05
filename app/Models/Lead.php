@@ -9,11 +9,18 @@ class Lead extends Model
 {
     use HasFactory;
     protected $fillable = [
+        'owner_id',
         'name',
-        'email',
-        'phone',
+        'contact',
+        'address',
+        'needs',
         'status',
     ];
+
+    public function owner()
+    {
+        return $this->belongsTo(User::class, 'owner_id');
+    }
 
     public function customer()
     {

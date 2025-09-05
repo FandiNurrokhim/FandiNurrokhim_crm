@@ -8,6 +8,26 @@ use Illuminate\Support\Facades\Storage;
 abstract class Controller
 {
 
+    public function responseFormatter($code, $data = null, $message = '')
+    {
+        return response()->json([
+            'code' => $code,
+            'data' => $data,
+            'message' => $message,
+        ], $code);
+    }
+
+    public function getCurrentUserRole()
+    {
+        $user = auth()->user();
+        if (!$user) {
+            return null;
+        }
+
+        $roles = $user->getRoleNames();
+        return $roles->isNotEmpty() ? $roles->first() : null;
+    }
+
     public function uploadFile($folderName, $file, $titleSlug)
     {
         if (empty($folderName) || empty($titleSlug)) {

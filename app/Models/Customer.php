@@ -10,11 +10,20 @@ class Customer extends Model
     use HasFactory;
 
     protected $fillable = [
+        'owner_id',
+        'lead_id',
         'name',
-        'email',
-        'phone',
+        'contact',
         'address',
     ];
+
+    public function owner() {
+        return $this->belongsTo(User::class, 'owner_id');
+    }
+
+    public function lead() {
+        return $this->belongsTo(Lead::class, 'lead_id');
+    }
 
     public function services()
     {

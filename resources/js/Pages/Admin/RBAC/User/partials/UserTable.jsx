@@ -11,7 +11,7 @@ import Card from "@/Components/Atoms/Card";
 import Avatar from "@/Components/Molecules/Avatar";
 
 // Utlis
-// import { getErrorMessage } from "@/Utils/getErrorMessage";
+// import getErrorMessage from "@/Utils/getErrorMessage";
 import { getCountryName, getStateName, getCountryFlagUrl } from "@/Utils/countryStateHelper";
 
 // Translate

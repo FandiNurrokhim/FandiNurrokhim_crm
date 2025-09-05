@@ -9,13 +9,11 @@ class DealProduct extends Model
 {
     use HasFactory;
     protected $fillable = [
-        'owner_id',
-        'lead_id',
-        'customer_id',
-        'title',
-        'status',
-        'total_amount',
-        'notes',
+        'deal_id',
+        'product_id',
+        'negotiated_price',
+        'qty',
+        'subtotal',
     ];
 
     public function deal()

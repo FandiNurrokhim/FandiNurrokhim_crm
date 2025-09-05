@@ -13,16 +13,14 @@ return new class extends Migration
     {
         Schema::create('deal_products', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('owner_id')->constrained('users'); 
-            $table->foreignId('lead_id')->nullable()->constrained('leads')->nullOnDelete();
-            $table->foreignId('customer_id')->nullable()->constrained('customers')->nullOnDelete();
-            $table->string('title')->nullable();
-            $table->enum('status', ['waiting_approval', 'approved', 'rejected'])->default('waiting_approval');
-            $table->decimal('total_amount', 14, 2)->default(0);
-            $table->text('notes')->nullable();
+            $table->foreignId('deal_id')->constrained('deals')->onDelete('cascade');
+            $table->foreignId('product_id')->constrained('products')->onDelete('cascade');
+            $table->decimal('negotiated_price', 14, 2); // harga dinegosiasikan
+            $table->integer('qty')->default(1);
+            $table->decimal('subtotal', 14, 2);
             $table->timestamps();
             $table->softDeletes();
-            $table->index(['owner_id', 'status']);
+            $table->index(['deal_id', 'product_id']);
         });
     }
 

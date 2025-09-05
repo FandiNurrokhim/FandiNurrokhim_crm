@@ -42,58 +42,48 @@ class MenuSeeder extends Seeder
         ]);
 
 
-        // Leads (Calon Customer)
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Leads',
-        //     'title_en' => 'Leads',
-        //     'icon' => 'fa-solid fa-user-plus',
-        //     'route' => 'lead.index'
-        // ]);
+        Menu::create([
+            'type' => 'PARENT',
+            'title_id' => 'Leads',
+            'title_en' => 'Leads',
+            'icon' => 'fa-solid fa-user-plus',
+            'route' => 'admin.lead.index'
+        ]);
 
-        // // Master Produk
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Produk',
-        //     'title_en' => 'Products',
-        //     'icon' => 'fa-solid fa-box',
-        //     'route' => 'product.index'
-        // ]);
+        // Master Produk
+        Menu::create([
+            'type' => 'PARENT',
+            'title_id' => 'Produk',
+            'title_en' => 'Products',
+            'icon' => 'fa-solid fa-box',
+            'route' => 'admin.product.index'
+        ]);
 
-        // // Project / Deal Pipeline
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Proyek / Deal',
-        //     'title_en' => 'Deal Pipeline',
-        //     'icon' => 'fa-solid fa-diagram-project',
-        //     'route' => 'deal.index'
-        // ]);
+        // Project / Deal Pipeline
+        Menu::create([
+            'type' => 'PARENT',
+            'title_id' => 'Proyek / Deal',
+            'title_en' => 'Deal Pipeline',
+            'icon' => 'fa-solid fa-diagram-project',
+            'route' => 'admin.deal.index'
+        ]);
 
-        // // Approval
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Approval',
-        //     'title_en' => 'Approval',
-        //     'icon' => 'fa-solid fa-check-to-slot',
-        //     'route' => 'approval.index'
-        // ]);
+        // Customer Aktif
+        Menu::create([
+            'type' => 'PARENT',
+            'title_id' => 'Customer Aktif',
+            'title_en' => 'Active Customers',
+            'icon' => 'fa-solid fa-users',
+            'route' => 'admin.customer.index'
+        ]);
 
-        // // Customer Aktif
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Customer Aktif',
-        //     'title_en' => 'Active Customers',
-        //     'icon' => 'fa-solid fa-users',
-        //     'route' => 'customer.index'
-        // ]);
-
-        // // Reporting
-        // Menu::create([
-        //     'type' => 'PARENT',
-        //     'title_id' => 'Laporan',
-        //     'title_en' => 'Reporting',
-        //     'icon' => 'fa-solid fa-chart-line',
-        //     'route' => 'report.index'
-        // ]);
+        // Reporting
+        Menu::create([
+            'type' => 'PARENT',
+            'title_id' => 'Laporan',
+            'title_en' => 'Reporting',
+            'icon' => 'fa-solid fa-chart-line',
+            'route' => 'admin.report.index'
+        ]);
     }
 }

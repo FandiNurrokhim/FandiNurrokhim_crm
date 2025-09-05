@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Application;
 
 Route::get('/', function () {
-    return Inertia::render('Home/Index', [
+    return Inertia::render('Auth/Login', [
         'canLogin' => Route::has('login'),
         'canRegister' => Route::has('register'),
         'laravelVersion' => Application::VERSION,
@@ -32,11 +32,11 @@ Route::middleware(['auth'])->group(function () {
     require __DIR__ . '/route-files/dashboard.php';
     require __DIR__ . '/route-files/user.php';
     require __DIR__ . '/route-files/role.php';
-    require __DIR__ . '/route-files/skill.php';
-    require __DIR__ . '/route-files/tech.php';
-    require __DIR__ . '/route-files/career.php';
-    require __DIR__ . '/route-files/education.php';
-    require __DIR__ . '/route-files/portfolio.php';
+    require __DIR__ . '/route-files/lead.php';
+    require __DIR__ . '/route-files/product.php';
+    require __DIR__ . '/route-files/deal.php';
+    require __DIR__ . '/route-files/customer.php';
+    require __DIR__ . '/route-files/report.php';
 });
 
 require __DIR__ . '/auth.php';

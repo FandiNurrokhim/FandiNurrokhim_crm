@@ -26,7 +26,7 @@
             <a href="{{ url()->previous() }}" class="btn">Go Back</a>
         </div>
         <footer>
-            &copy; {{ date('Y') }} Pasar Pundensari
+            &copy; {{ date('Y') }} CRM
         </footer>
     </div>
 </body>

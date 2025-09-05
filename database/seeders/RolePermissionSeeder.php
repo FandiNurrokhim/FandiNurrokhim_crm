@@ -26,12 +26,10 @@ class RolePermissionSeeder extends Seeder
 
             // MASTER DATA
             'lead',
-            'customer',
-            'approval',
-            'customer_service',
-            'product',
-            'deal_product',
             'deal',
+            'customer',
+            'product',
+            'report',
         ];
 
         foreach ($permissions as $perm) {
@@ -46,11 +44,9 @@ class RolePermissionSeeder extends Seeder
             'dashboard',
             'lead',
             'deal',
-            'deal_product',
             'customer',
-            'customer_service',
             'product',
-            'approval',
+            'report',
         ]);
 
         // Sales permissions
@@ -58,19 +54,32 @@ class RolePermissionSeeder extends Seeder
             'dashboard',
             'lead',
             'deal',
-            'deal_product',
             'customer',
-            'customer_service',
             'product',
+            'report',
         ]);
 
         // Buat Super Admin user
         $admin = User::factory()->create([
             'id' => 900,
             'name' => 'Super Admin',
-            'email' => 'admin@superadmin.com',
+            'email' => 'admin@demo.com',
+            'password' => bcrypt('password'),
+        ]);
+        $manager = User::factory()->create([
+            'id' => 901,
+            'name' => 'Manager',
+            'email' => 'manager@demo.com',
+            'password' => bcrypt('password'),
+        ]);
+        $sales = User::factory()->create([
+            'id' => 902,
+            'name' => 'Sales',
+            'email' => 'sales@demo.com',
             'password' => bcrypt('password'),
         ]);
         $admin->assignRole('Super Admin');
+        $manager->assignRole('Manager');
+        $sales->assignRole('Sales');
     }
 }

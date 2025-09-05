@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('leads', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('owner_id')->constrained('users'); // sales pemilik
+            $table->foreignId('owner_id')->constrained('users');
             $table->string('name');
             $table->string('contact')->nullable();  
             $table->string('address')->nullable();

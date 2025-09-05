@@ -101,11 +101,11 @@ export default function Sidebar() {
           {/* Logo */}
           <div className="flex items-center lg:justify-start lg:px-4 justify-center w-full h-16 bg-gray-800">
             {isMinimized ? (
-              <Link href="/home" className="flex items-center justify-center">
+              <Link href="/admin/dashboard" className="flex items-center justify-center">
                 <ApplicationLogo className="w-8 h-8 text-white" />
               </Link>
             ) : (
-              <Link href="/home" className="flex items-center gap-2">
+              <Link href="/admin/dashboard" className="flex items-center gap-2">
                 <ApplicationLogo className="w-10 h-10 text-white" />
                 <span className="text-lg font-bold text-white">Admin Menu</span>
               </Link>

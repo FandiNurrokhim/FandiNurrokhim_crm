@@ -11,14 +11,8 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable implements \Tymon\JWTAuth\Contracts\JWTSubject
 {
-    /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasRoles, HasFactory, Notifiable;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var list<string>
-     */
     protected $fillable = [
         'name',
         'email',
@@ -32,27 +26,25 @@ class User extends Authenticatable implements \Tymon\JWTAuth\Contracts\JWTSubjec
         'photo_profile',
     ];
 
-    /**
-     * The attributes that should be hidden for serialization.
-     *
-     * @var list<string>
-     */
     protected $hidden = [
         'password',
         'remember_token',
     ];
 
-    /**
-     * Get the attributes that should be cast.
-     *
-     * @return array<string, string>
-     */
+    // cukup tulis nama accessor saja
+    protected $appends = ['role'];
+
     protected function casts(): array
     {
         return [
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+
+    public function getRoleAttribute()
+    {
+        return $this->getRoleNames()->first();
     }
 
     public function getJWTIdentifier()

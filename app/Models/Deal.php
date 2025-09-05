@@ -9,21 +9,36 @@ class Deal extends Model
 {
     use HasFactory;
     protected $fillable = [
+        'owner_id',
+        'lead_id',
         'customer_id',
-        'product_id',
+        'title',
         'status',
+        'notes',
+        'total_amount',
         'started_at',
         'ended_at',
     ];
+
+    public function owner()
+    {
+        return $this->belongsTo(User::class, 'owner_id');
+    }
+
+    public function lead()
+    {
+        return $this->belongsTo(Lead::class);
+    }
 
     public function customer()
     {
         return $this->belongsTo(Customer::class);
     }
 
-    public function product()
+    public function products()
     {
-        return $this->belongsTo(Product::class);
+        return $this->belongsToMany(Product::class, 'deal_products')
+            ->withPivot(['qty', 'negotiated_price', 'subtotal']);
     }
 
     public function approvals()

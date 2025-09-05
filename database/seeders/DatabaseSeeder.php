@@ -27,7 +27,7 @@ class DatabaseSeeder extends Seeder
             'password' => bcrypt('password'),
         ]);
         $manager->assignRole("Manager");
-            
+
         // $this->call(TestDataSeeder::class);
         $this->call(MenuSeeder::class);
 
@@ -54,13 +54,11 @@ class DatabaseSeeder extends Seeder
                 $product = $products->random();
 
                 DealProduct::factory()->create([
-                    'owner_id' => $salesUser->id,
-                    'lead_id' => $deal->lead_id, 
-                    'customer_id' => $deal->customer_id,
-                    'title' => $deal->title ?? 'Produk untuk Deal',
-                    'status' => $deal->status ?? 'waiting_approval',
-                    'total_amount' => $product->sell_price,
-                    'notes' => 'Auto generated from seeder',
+                    'deal_id' => $deal->id,
+                    'product_id' => $product->id,
+                    'negotiated_price' => $product->sell_price,
+                    'qty' => 1,
+                    'subtotal' => $product->sell_price * 1,
                 ]);
 
                 if ($deal->status === 'waiting_approval') {

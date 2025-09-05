@@ -7,7 +7,7 @@ import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
 import { createRoot } from 'react-dom/client';
 import { Inertia } from '@inertiajs/inertia';
 
-const appName = 'Pasar Pundensari';
+const appName = 'CRM';
 
 Inertia.on('before', (event) => {
     if (event.detail) {

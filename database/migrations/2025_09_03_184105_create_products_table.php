@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('name')->unique();
             $table->decimal('hpp', 12, 2);
-            $table->decimal('margin_percent', 5, 2)->default(0); // %
-            $table->decimal('sell_price', 12, 2); // simpan harga jual (hpp + margin)
+            $table->decimal('margin_percent', 5, 2)->default(0);
+            $table->decimal('sell_price', 12, 2); 
             $table->boolean('is_active')->default(true);
             $table->timestamps();
         });

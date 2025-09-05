@@ -374,7 +374,7 @@ export default function Table({
     <div className="container h-full">
       <TableToolbar
         onSearch={(query) => setSearchQuery(query)}
-        onAdd={handleAdd}
+        onAdd={onAdd ? handleAdd : undefined}
         addButtonText={addButtonText}
         filters={filters}
         onFilterChange={onFilterChange}

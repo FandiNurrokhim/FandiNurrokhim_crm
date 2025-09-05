@@ -8,6 +8,16 @@ use Spatie\Permission\Models\Permission;
 
 class MenuHelper
 {
+    public static function getRoleName($user)
+    {
+        if (!$user) {
+            return null;
+        }
+        return method_exists($user, 'getRoleNames')
+            ? $user->getRoleNames()->first()
+            : null;
+    }
+
     public static function getSidebarMenus()
     {
         if (!auth()->check()) {

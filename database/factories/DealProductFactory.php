@@ -16,14 +16,14 @@ class DealProductFactory extends Factory
      */
     public function definition(): array
     {
-            return [
-                'owner_id' => $this->faker->randomNumber(),
-                'lead_id' => $this->faker->randomNumber(),
-                'customer_id' => $this->faker->randomNumber(),
-                'title' => $this->faker->sentence(3),
-                'status' => $this->faker->randomElement(['waiting_approval', 'approved', 'rejected']),
-                'total_amount' => $this->faker->randomFloat(2, 100000, 1000000),
-                'notes' => $this->faker->optional()->text(100),
-            ];
+        return [
+            'deal_id' => \App\Models\Deal::factory(),
+            'product_id' => \App\Models\Product::factory(),
+            'negotiated_price' => $this->faker->randomFloat(2, 100000, 1000000),
+            'qty' => $this->faker->numberBetween(1, 10),
+            'subtotal' => function (array $attributes) {
+                return $attributes['qty'] * $attributes['negotiated_price'];
+            },
+        ];
     }
 }
