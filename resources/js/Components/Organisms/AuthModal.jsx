@@ -191,7 +191,7 @@ export default function AuthModal({ isOpen, onClose, defaultMode = "login" }) {
                                         <button
                                             type="button"
                                             className="text-blue-700 hover:underline"
-                                            onClick={() => setMode("register")}
+                                            disabled
                                         >
                                             {t('global.createAccount')}
                                         </button>

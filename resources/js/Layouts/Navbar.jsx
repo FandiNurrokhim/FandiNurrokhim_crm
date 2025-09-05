@@ -82,16 +82,6 @@ export default function Navbar() {
                                         <span>{t('navbar.login')}</span>
                                     </div>
                                 </button>
-                                <button
-                                    type="button"
-                                    className="bg-[#D9B36A] text-[#0E1C2D] hover:bg-[#caa45f] rounded-full px-4 py-1.5 text-sm font-semibold transition hidden lg:block"
-                                    onClick={() => {
-                                        setAuthMode('register');
-                                        setShowAuthModal(true);
-                                    }}
-                                >
-                                    {t('navbar.register')}
-                                </button>
                                 <AuthModal
                                     isOpen={showAuthModal}
                                     onClose={() => setShowAuthModal(false)}
