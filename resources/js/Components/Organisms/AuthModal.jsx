@@ -183,7 +183,7 @@ export default function AuthModal({ isOpen, onClose, defaultMode = "login" }) {
                                         ? t('global.login')
                                         : t('global.register')}
                             </button>
-                            <LoginGoogleButton />
+                            {/* <LoginGoogleButton /> */}
                             <div className="text-sm font-medium text-gray-500 text-center">
                                 {mode === "login" ? (
                                     <>

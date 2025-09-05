@@ -10,9 +10,7 @@ export default function HomeLayout({ className, children }) {
     return (
         <div className="min-h-screen bg-gray-100">
             <Navbar />
-            {url === "/" && (
-                <HeroSection />
-            )}
+            
             <main
                 className={`${className}`} >
                 {children}

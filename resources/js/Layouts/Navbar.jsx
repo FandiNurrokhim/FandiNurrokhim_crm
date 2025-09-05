@@ -25,28 +25,12 @@ export default function Navbar() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-10 lg:px-16 py-4">
                 <div className="flex items-center justify-between">
                     {/* Logo */}
-                    <Link href="/home">
-                        <ApplicationLogo />
+                    <Link href="/" className="text-white">
+                        CRM
                     </Link>
-
-                    {/* SearchBar: full width on mobile, max-w-lg on desktop */}
-                    <div className="flex-1 mx-4">
-                        <SearchBar placeholder={t('navbar.searchPlaceholder')} />
-                    </div>
 
                     {/* Right section for desktop */}
                     <div className="hidden lg:flex items-center space-x-4">
-                        <LanguageDropdown />
-                        <Link
-                            href="/favorites"
-                            aria-label="Favorite items"
-                            className="relative text-[#D9B36A] hover:text-white"
-                        >
-                            <HeartIcon className="w-6 h-6" />
-                            <span className="absolute -top-1 -right-2 bg-red-600 text-white text-xs font-semibold rounded-full px-1.5 leading-none">
-                                {auth?.user?.favorite_count || 0}
-                            </span>
-                        </Link>
                         {!auth?.user ? (
                             <>
                                 <button
